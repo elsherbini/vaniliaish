@@ -1,0 +1,1055 @@
+[13:22:59] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[13:22:59] [main/INFO] [FML/]: Forge Mod Loader version 14.22.0.2460 for Minecraft 1.12.1 loading
+[13:22:59] [main/INFO] [FML/]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_131, running on Linux:amd64:4.4.0-92-generic, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[13:22:59] [main/DEBUG] [FML/]: Java classpath at launch is:
+[13:22:59] [main/DEBUG] [FML/]:     /home/josephe/.local/share/multimc/bin/jars/NewLaunch.jar
+[13:22:59] [main/DEBUG] [FML/]: Java library path at launch is:
+[13:22:59] [main/DEBUG] [FML/]:     /home/josephe/.local/share/multimc/instances/Vanillaish/natives
+[13:22:59] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[13:22:59] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[13:22:59] [main/DEBUG] [FML/]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[13:22:59] [main/DEBUG] [FML/]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[13:22:59] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[13:22:59] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[13:22:59] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[13:22:59] [main/DEBUG] [FML/]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[13:22:59] [main/DEBUG] [FML/]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[13:22:59] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[13:22:59] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[13:22:59] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft
+[13:22:59] [main/DEBUG] [FML/]: Discovering coremods
+[13:22:59] [main/DEBUG] [FML/]: Examining for coremod candidacy BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar
+[13:22:59] [main/DEBUG] [FML/]: Not found coremod data in BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar
+[13:22:59] [main/DEBUG] [FML/]: Examining for coremod candidacy Chameleon-1.12-4.1.3.jar
+[13:22:59] [main/DEBUG] [FML/]: Not found coremod data in Chameleon-1.12-4.1.3.jar
+[13:22:59] [main/DEBUG] [FML/]: Examining for coremod candidacy ChestTransporter-1.12-2.8.7.jar
+[13:22:59] [main/DEBUG] [FML/]: Not found coremod data in ChestTransporter-1.12-2.8.7.jar
+[13:22:59] [main/DEBUG] [FML/]: Examining for coremod candidacy chiselsandbits-14.6.jar
+[13:22:59] [main/DEBUG] [FML/]: Not found coremod data in chiselsandbits-14.6.jar
+[13:22:59] [main/DEBUG] [FML/]: Examining for coremod candidacy FTBLib-4.0.5.jar
+[13:22:59] [main/DEBUG] [FML/]: Not found coremod data in FTBLib-4.0.5.jar
+[13:22:59] [main/DEBUG] [FML/]: Examining for coremod candidacy FTBUtilities-4.0.3.jar
+[13:22:59] [main/DEBUG] [FML/]: Not found coremod data in FTBUtilities-4.0.3.jar
+[13:22:59] [main/DEBUG] [FML/]: Examining for coremod candidacy Hwyla-1.8.20-B35_1.12.jar
+[13:22:59] [main/DEBUG] [FML/]: Not found coremod data in Hwyla-1.8.20-B35_1.12.jar
+[13:22:59] [main/DEBUG] [FML/]: Examining for coremod candidacy jei_1.12-4.7.5.85.jar
+[13:22:59] [main/DEBUG] [FML/]: Not found coremod data in jei_1.12-4.7.5.85.jar
+[13:22:59] [main/DEBUG] [FML/]: Examining for coremod candidacy journeymap-1.12-5.4.9.jar
+[13:22:59] [main/DEBUG] [FML/]: Not found coremod data in journeymap-1.12-5.4.9.jar
+[13:22:59] [main/DEBUG] [FML/]: Examining for coremod candidacy Morpheus-1.12-3.3.2.jar
+[13:22:59] [main/DEBUG] [FML/]: Not found coremod data in Morpheus-1.12-3.3.2.jar
+[13:22:59] [main/DEBUG] [FML/]: Examining for coremod candidacy StorageDrawers-1.12-5.2.9.jar
+[13:22:59] [main/DEBUG] [FML/]: Not found coremod data in StorageDrawers-1.12-5.2.9.jar
+[13:22:59] [main/DEBUG] [FML/]: Examining for coremod candidacy TombManyGraves-1.12-4.0.0.jar
+[13:22:59] [main/DEBUG] [FML/]: Not found coremod data in TombManyGraves-1.12-4.0.0.jar
+[13:22:59] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:22:59] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:22:59] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:22:59] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:22:59] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:22:59] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[13:22:59] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[13:22:59] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[13:22:59] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[13:22:59] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[13:22:59] [main/DEBUG] [FML/]: Injection complete
+[13:22:59] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[13:22:59] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[13:23:00] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[13:23:00] [main/DEBUG] [FML/]: Read 1008 binary patches
+[13:23:00] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.12.1.lzma with 36083 records
+[13:23:01] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[13:23:01] [main/INFO] [FML/]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[13:23:01] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[13:23:01] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:23:01] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[13:23:01] [main/DEBUG] [FML/]: Injection complete
+[13:23:01] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[13:23:01] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[13:23:01] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[13:23:01] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:23:02] [main/DEBUG] [FML/]: Loaded 206 rules from AccessTransformer config file forge_at.cfg
+[13:23:02] [main/DEBUG] [FML/]: Loaded 7 rules from AccessTransformer mod jar file /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/mods/chiselsandbits-14.6.jar!META-INF/chiselsandbits_at.cfg
+
+[13:23:02] [main/DEBUG] [FML/]: Loaded 2 rules from AccessTransformer mod jar file /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/mods/jei_1.12-4.7.5.85.jar!META-INF/jei_at.cfg
+
+[13:23:02] [main/DEBUG] [FML/]: Loaded 24 rules from AccessTransformer mod jar file /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/mods/FTBLib-4.0.5.jar!META-INF/ftbl_at.cfg
+
+[13:23:02] [main/DEBUG] [FML/]: Validating minecraft
+[13:23:02] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[13:23:02] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:23:02] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:23:02] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[13:23:07] [main/DEBUG] [FML/]: Creating vanilla freeze snapshot
+[13:23:07] [main/DEBUG] [FML/]: Vanilla freeze snapshot created
+[13:23:08] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - LanguageManager took 0.002s
+[13:23:08] [main/INFO] [FML/]: -- System Details --
+Details:
+	Minecraft Version: 1.12.1
+	Operating System: Linux (amd64) version 4.4.0-92-generic
+	Java Version: 1.8.0_131, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 378537120 bytes (361 MB) / 655884288 bytes (625 MB) up to 954728448 bytes (910 MB)
+	JVM Flags: 2 total; -Xms512m -Xmx1024m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.5.0 NVIDIA 375.66' Renderer: 'GeForce GTX 950/PCIe/SSE2'
+[13:23:08] [main/INFO] [FML/]: MinecraftForge v14.22.0.2460 Initialized
+[13:23:08] [main/INFO] [FML/]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[13:23:09] [main/INFO] [FML/]: Replaced 1036 ore ingredients
+[13:23:09] [main/DEBUG] [FML/]: File /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/config/injectedDependencies.json not found. No dependencies injected
+[13:23:09] [main/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[13:23:09] [main/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[13:23:09] [main/DEBUG] [FML/]: Found a minecraft related file at /home/josephe/.local/share/multimc/bin/jars/NewLaunch.jar, examining for mod candidates
+[13:23:09] [main/DEBUG] [FML/]: Found a minecraft related file at /home/josephe/.local/share/multimc/libraries/com/mojang/patchy/1.1/patchy-1.1.jar, examining for mod candidates
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/google/guava/guava/21.0/guava-21.0.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/mojang/realms/1.10.17/realms-1.10.17.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar
+[13:23:09] [main/DEBUG] [FML/]: Found a minecraft related file at /home/josephe/.local/share/multimc/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar, examining for mod candidates
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar
+[13:23:09] [main/DEBUG] [FML/]: Found a minecraft related file at /home/josephe/.local/share/multimc/libraries/net/minecraftforge/forge/1.12.1-14.22.0.2460/forge-1.12.1-14.22.0.2460-universal.jar, examining for mod candidates
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/jline/jline/2.13/jline-2.13.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar
+[13:23:09] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar
+[13:23:09] [main/DEBUG] [FML/]: Found a minecraft related file at /home/josephe/.local/share/multimc/versions/1.12.1/1.12.1.jar, examining for mod candidates
+[13:23:09] [main/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[13:23:09] [main/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[13:23:09] [main/INFO] [FML/]: Searching /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/mods for mods
+[13:23:09] [main/DEBUG] [FML/]: Found a candidate zip or jar file BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar
+[13:23:09] [main/DEBUG] [FML/]: Found a candidate zip or jar file Chameleon-1.12-4.1.3.jar
+[13:23:09] [main/DEBUG] [FML/]: Found a candidate zip or jar file ChestTransporter-1.12-2.8.7.jar
+[13:23:09] [main/DEBUG] [FML/]: Found a candidate zip or jar file chiselsandbits-14.6.jar
+[13:23:09] [main/DEBUG] [FML/]: Found a candidate zip or jar file FTBLib-4.0.5.jar
+[13:23:09] [main/DEBUG] [FML/]: Found a candidate zip or jar file FTBUtilities-4.0.3.jar
+[13:23:09] [main/DEBUG] [FML/]: Found a candidate zip or jar file Hwyla-1.8.20-B35_1.12.jar
+[13:23:09] [main/DEBUG] [FML/]: Found a candidate zip or jar file jei_1.12-4.7.5.85.jar
+[13:23:09] [main/DEBUG] [FML/]: Found a candidate zip or jar file journeymap-1.12-5.4.9.jar
+[13:23:09] [main/DEBUG] [FML/]: Found a candidate zip or jar file Morpheus-1.12-3.3.2.jar
+[13:23:09] [main/DEBUG] [FML/]: Found a candidate zip or jar file StorageDrawers-1.12-5.2.9.jar
+[13:23:09] [main/DEBUG] [FML/]: Found a candidate zip or jar file TombManyGraves-1.12-4.0.0.jar
+[13:23:09] [main/DEBUG] [FML/]: Examining file NewLaunch.jar for potential mods
+[13:23:09] [main/DEBUG] [FML/]: The mod container NewLaunch.jar appears to be missing an mcmod.info file
+[13:23:09] [main/DEBUG] [FML/]: Examining file patchy-1.1.jar for potential mods
+[13:23:09] [main/DEBUG] [FML/]: The mod container patchy-1.1.jar appears to be missing an mcmod.info file
+[13:23:09] [main/DEBUG] [FML/]: Examining file text2speech-1.10.3.jar for potential mods
+[13:23:09] [main/DEBUG] [FML/]: The mod container text2speech-1.10.3.jar appears to be missing an mcmod.info file
+[13:23:09] [main/DEBUG] [FML/]: Examining file forge-1.12.1-14.22.0.2460-universal.jar for potential mods
+[13:23:09] [main/DEBUG] [FML/]: The mod container forge-1.12.1-14.22.0.2460-universal.jar appears to be missing an mcmod.info file
+[13:23:10] [main/DEBUG] [FML/]: Examining file 1.12.1.jar for potential mods
+[13:23:10] [main/DEBUG] [FML/]: The mod container 1.12.1.jar appears to be missing an mcmod.info file
+[13:23:10] [main/DEBUG] [FML/]: Examining file BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar for potential mods
+[13:23:10] [main/TRACE] [FML/]: Located mcmod.info file in file BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar
+[13:23:10] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (portablejim.bbw.BetterBuildersWandsMod) - loading
+[13:23:10] [main/TRACE] [betterbuilderswands/]: Parsed dependency info : [] [] []
+[13:23:10] [main/DEBUG] [betterbuilderswands/]: Attempting to load the file version.properties from BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar to locate a version number for betterbuilderswands
+[13:23:10] [main/DEBUG] [betterbuilderswands/]: Found version null for mod betterbuilderswands in version.properties, using
+[13:23:10] [main/WARN] [betterbuilderswands/]: Mod betterbuilderswands is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.11.1
+[13:23:10] [main/DEBUG] [FML/]: Examining file Chameleon-1.12-4.1.3.jar for potential mods
+[13:23:10] [main/TRACE] [FML/]: Located mcmod.info file in file Chameleon-1.12-4.1.3.jar
+[13:23:10] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.jaquadro.minecraft.chameleon.Chameleon) - loading
+[13:23:10] [main/TRACE] [chameleon/]: Using mcmod dependency info : [forge] [] []
+[13:23:10] [main/DEBUG] [FML/]: Examining file ChestTransporter-1.12-2.8.7.jar for potential mods
+[13:23:10] [main/TRACE] [FML/]: Located mcmod.info file in file ChestTransporter-1.12-2.8.7.jar
+[13:23:10] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (cubex2.mods.chesttransporter.ChestTransporter) - loading
+[13:23:10] [main/TRACE] [chesttransporter/]: Parsed dependency info : [] [] []
+[13:23:10] [main/DEBUG] [FML/]: Examining file chiselsandbits-14.6.jar for potential mods
+[13:23:10] [main/TRACE] [FML/]: Located mcmod.info file in file chiselsandbits-14.6.jar
+[13:23:10] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mod.chiselsandbits.core.ChiselsAndBits) - loading
+[13:23:10] [main/TRACE] [chiselsandbits/]: Parsed dependency info : [] [] []
+[13:23:10] [main/DEBUG] [FML/]: Examining file FTBLib-4.0.5.jar for potential mods
+[13:23:10] [main/TRACE] [FML/]: Located mcmod.info file in file FTBLib-4.0.5.jar
+[13:23:10] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.feed_the_beast.ftbl.FTBLibMod) - loading
+[13:23:10] [main/TRACE] [ftbl/]: Parsed dependency info : [] [Baubles, JEI, nei, Waila, MineTweaker3, mcmultipart, chiselsandbits] []
+[13:23:10] [main/DEBUG] [FML/]: Examining file FTBUtilities-4.0.3.jar for potential mods
+[13:23:10] [main/TRACE] [FML/]: Located mcmod.info file in file FTBUtilities-4.0.3.jar
+[13:23:10] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.feed_the_beast.ftbu.FTBU) - loading
+[13:23:10] [main/TRACE] [ftbu/]: Parsed dependency info : [ftbl] [ftbl] []
+[13:23:10] [main/DEBUG] [FML/]: Examining file Hwyla-1.8.20-B35_1.12.jar for potential mods
+[13:23:10] [main/TRACE] [FML/]: Located mcmod.info file in file Hwyla-1.8.20-B35_1.12.jar
+[13:23:10] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mcp.mobius.waila.Waila) - loading
+[13:23:10] [main/TRACE] [waila/]: Parsed dependency info : [] [] []
+[13:23:10] [main/DEBUG] [FML/]: Examining file jei_1.12-4.7.5.85.jar for potential mods
+[13:23:10] [main/TRACE] [FML/]: Located mcmod.info file in file jei_1.12-4.7.5.85.jar
+[13:23:10] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mezz.jei.JustEnoughItems) - loading
+[13:23:10] [main/TRACE] [jei/]: Parsed dependency info : [forge@[14.21.0.2348,)] [forge@[14.21.0.2348,)] []
+[13:23:11] [main/DEBUG] [FML/]: Examining file journeymap-1.12-5.4.9.jar for potential mods
+[13:23:11] [main/TRACE] [FML/]: Located mcmod.info file in file journeymap-1.12-5.4.9.jar
+[13:23:11] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (journeymap.common.Journeymap) - loading
+[13:23:11] [main/TRACE] [journeymap/]: Using mcmod dependency info : [] [Forge@[14.21.1.2387,)] []
+[13:23:11] [main/DEBUG] [FML/]: Examining file Morpheus-1.12-3.3.2.jar for potential mods
+[13:23:11] [main/TRACE] [FML/]: Located mcmod.info file in file Morpheus-1.12-3.3.2.jar
+[13:23:11] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.quetzi.morpheus.Morpheus) - loading
+[13:23:11] [main/TRACE] [morpheus/]: Parsed dependency info : [forge@[14.21.0.2320,)] [forge@[14.21.0.2320,)] []
+[13:23:11] [main/DEBUG] [FML/]: Examining file StorageDrawers-1.12-5.2.9.jar for potential mods
+[13:23:11] [main/TRACE] [FML/]: Located mcmod.info file in file StorageDrawers-1.12-5.2.9.jar
+[13:23:11] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.jaquadro.minecraft.storagedrawers.StorageDrawers) - loading
+[13:23:11] [main/TRACE] [storagedrawers/]: Using mcmod dependency info : [forge, chameleon] [chameleon] []
+[13:23:11] [main/DEBUG] [FML/]: Examining file TombManyGraves-1.12-4.0.0.jar for potential mods
+[13:23:11] [main/TRACE] [FML/]: Located mcmod.info file in file TombManyGraves-1.12-4.0.0.jar
+[13:23:11] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.m4thg33k.tombmanygraves.TombManyGraves) - loading
+[13:23:11] [main/TRACE] [tombmanygraves/]: Parsed dependency info : [] [] []
+[13:23:11] [main/INFO] [FML/]: Forge Mod Loader has identified 16 mods to load
+[13:23:11] [main/DEBUG] [FML/]: Found API journeymap.client.api.util (owned by journeymap providing journeymap|client-api-util) embedded in journeymap
+[13:23:11] [main/DEBUG] [FML/]: Found API journeymap.client.api (owned by journeymap providing journeymap|client-api) embedded in journeymap
+[13:23:11] [main/DEBUG] [FML/]: Found API journeymap.client.api.display (owned by journeymap providing journeymap|client-api-display) embedded in journeymap
+[13:23:11] [main/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.registry (owned by StorageDrawersAPI providing StorageDrawersAPI|registry) embedded in storagedrawers
+[13:23:11] [main/DEBUG] [FML/]: Found API mezz.jei.api (owned by jei providing JustEnoughItemsAPI) embedded in jei
+[13:23:11] [main/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api (owned by StorageDrawers providing StorageDrawersAPI) embedded in storagedrawers
+[13:23:11] [main/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.storage (owned by StorageDrawersAPI providing StorageDrawersAPI|storage) embedded in storagedrawers
+[13:23:11] [main/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.event (owned by StorageDrawersAPI providing StorageDrawersAPI|event) embedded in storagedrawers
+[13:23:11] [main/DEBUG] [FML/]: Found API mcp.mobius.waila.api (owned by Waila providing WailaAPI) embedded in waila
+[13:23:11] [main/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.render (owned by StorageDrawersAPI providing StorageDrawersAPI|render) embedded in storagedrawers
+[13:23:11] [main/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.storage.attribute (owned by StorageDrawersAPI providing StorageDrawersAPI|storage-attribute) embedded in storagedrawers
+[13:23:11] [main/DEBUG] [FML/]: Found API journeymap.client.api.model (owned by journeymap providing journeymap|client-api-model) embedded in journeymap
+[13:23:11] [main/DEBUG] [FML/]: Found API mod.chiselsandbits.api (owned by chiselsandbits providing ChiselsAndBitsAPI) embedded in chiselsandbits
+[13:23:11] [main/DEBUG] [FML/]: Found API journeymap.client.api.event (owned by journeymap providing journeymap|client-api-event) embedded in journeymap
+[13:23:11] [main/DEBUG] [FML/]: Found API cubex2.mods.chesttransporter.api (owned by chesttransporter providing chesttransporter|api) embedded in chesttransporter
+[13:23:11] [main/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|registry:2.1.0}
+[13:23:11] [main/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|registry: owner: StorageDrawersAPI, dependents: [storagedrawers]
+[13:23:11] [main/DEBUG] [FML/]: Creating API container dummy for API ChiselsAndBitsAPI: owner: chiselsandbits, dependents: []
+[13:23:11] [main/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|storage:2.1.0}
+[13:23:11] [main/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|storage: owner: StorageDrawersAPI, dependents: [storagedrawers]
+[13:23:11] [main/DEBUG] [FML/]: Creating API container dummy for API JustEnoughItemsAPI: owner: jei, dependents: []
+[13:23:11] [main/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api-display: owner: journeymap, dependents: []
+[13:23:11] [main/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI: owner: StorageDrawers, dependents: [storagedrawers]
+[13:23:11] [main/DEBUG] [FML/]: Creating API container dummy for API WailaAPI: owner: Waila, dependents: [waila]
+[13:23:11] [main/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api-model: owner: journeymap, dependents: []
+[13:23:11] [main/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api: owner: journeymap, dependents: []
+[13:23:11] [main/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|render:2.1.0}
+[13:23:11] [main/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|render: owner: StorageDrawersAPI, dependents: [storagedrawers]
+[13:23:11] [main/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|storage-attribute:2.1.0}
+[13:23:11] [main/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|storage-attribute: owner: StorageDrawersAPI, dependents: [storagedrawers]
+[13:23:11] [main/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api-event: owner: journeymap, dependents: []
+[13:23:11] [main/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api-util: owner: journeymap, dependents: []
+[13:23:11] [main/DEBUG] [FML/]: Creating API container dummy for API chesttransporter|api: owner: chesttransporter, dependents: []
+[13:23:11] [main/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|event:2.1.0}
+[13:23:11] [main/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|event: owner: StorageDrawersAPI, dependents: [storagedrawers]
+[13:23:11] [main/TRACE] [FML/]: Received a system property request ''
+[13:23:11] [main/TRACE] [FML/]: System property request managing the state of 0 mods
+[13:23:11] [main/DEBUG] [FML/]: After merging, found state information for 0 mods
+[13:23:11] [main/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[13:23:11] [main/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[13:23:11] [main/DEBUG] [betterbuilderswands/]: Enabling mod betterbuilderswands
+[13:23:11] [main/DEBUG] [chameleon/]: Enabling mod chameleon
+[13:23:11] [main/DEBUG] [chesttransporter/]: Enabling mod chesttransporter
+[13:23:11] [main/DEBUG] [Chest Transporter/]: Mod Chest Transporter is missing a pack.mcmeta file, substituting a dummy one
+[13:23:11] [main/DEBUG] [chiselsandbits/]: Enabling mod chiselsandbits
+[13:23:11] [main/DEBUG] [ftbl/]: Enabling mod ftbl
+[13:23:11] [main/DEBUG] [FTBLib/]: Mod FTBLib is missing a pack.mcmeta file, substituting a dummy one
+[13:23:11] [main/DEBUG] [ftbu/]: Enabling mod ftbu
+[13:23:11] [main/DEBUG] [FTBUtilities/]: Mod FTBUtilities is missing a pack.mcmeta file, substituting a dummy one
+[13:23:11] [main/DEBUG] [waila/]: Enabling mod waila
+[13:23:11] [main/DEBUG] [Waila/]: Mod Waila is missing a pack.mcmeta file, substituting a dummy one
+[13:23:11] [main/DEBUG] [jei/]: Enabling mod jei
+[13:23:11] [main/DEBUG] [journeymap/]: Enabling mod journeymap
+[13:23:11] [main/DEBUG] [JourneyMap/]: Mod JourneyMap is missing a pack.mcmeta file, substituting a dummy one
+[13:23:11] [main/DEBUG] [morpheus/]: Enabling mod morpheus
+[13:23:11] [main/DEBUG] [Morpheus/]: Mod Morpheus is missing a pack.mcmeta file, substituting a dummy one
+[13:23:11] [main/DEBUG] [storagedrawers/]: Enabling mod storagedrawers
+[13:23:11] [main/DEBUG] [tombmanygraves/]: Enabling mod tombmanygraves
+[13:23:11] [main/DEBUG] [Tomb Many Graves/]: Mod Tomb Many Graves is missing a pack.mcmeta file, substituting a dummy one
+[13:23:11] [main/TRACE] [FML/]: Verifying mod requirements are satisfied
+[13:23:11] [main/TRACE] [FML/]: All mod requirements are satisfied
+[13:23:11] [main/TRACE] [FML/]: Sorting mods into an ordered list
+[13:23:11] [main/TRACE] [FML/]: Mod sorting completed successfully
+[13:23:11] [main/DEBUG] [FML/]: Mod sorting data
+[13:23:11] [main/DEBUG] [FML/]: 	betterbuilderswands(Better Builder's Wands:0.11.1): BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	chameleon(Chameleon:1.12-4.1.3): Chameleon-1.12-4.1.3.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	chesttransporter(Chest Transporter:2.8.7): ChestTransporter-1.12-2.8.7.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	chiselsandbits(Chisels & Bits:14.6): chiselsandbits-14.6.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	ftbl(FTBLib:0.0.0): FTBLib-4.0.5.jar (after:Baubles;after:JEI;after:nei;after:Waila;after:MineTweaker3;after:mcmultipart;after:chiselsandbits)
+[13:23:11] [main/DEBUG] [FML/]: 	ftbu(FTBUtilities:0.0.0): FTBUtilities-4.0.3.jar (required-after:ftbl)
+[13:23:11] [main/DEBUG] [FML/]: 	WailaAPI(API: WailaAPI:1.3): Hwyla-1.8.20-B35_1.12.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	waila(Waila:1.8.20): Hwyla-1.8.20-B35_1.12.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	jei(Just Enough Items:4.7.5.85): jei_1.12-4.7.5.85.jar (required-after:forge@[14.21.0.2348,);)
+[13:23:11] [main/DEBUG] [FML/]: 	journeymap(JourneyMap:1.12-5.4.9): journeymap-1.12-5.4.9.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	morpheus(Morpheus:1.12-3.3.2): Morpheus-1.12-3.3.2.jar (required-after:forge@[14.21.0.2320,);)
+[13:23:11] [main/DEBUG] [FML/]: 	StorageDrawersAPI(API: StorageDrawersAPI:2.1.0): StorageDrawers-1.12-5.2.9.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	StorageDrawersAPI|registry(API: StorageDrawersAPI|registry:2.1.0): StorageDrawers-1.12-5.2.9.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	StorageDrawersAPI|storage(API: StorageDrawersAPI|storage:2.1.0): StorageDrawers-1.12-5.2.9.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	StorageDrawersAPI|render(API: StorageDrawersAPI|render:2.1.0): StorageDrawers-1.12-5.2.9.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	StorageDrawersAPI|storage-attribute(API: StorageDrawersAPI|storage-attribute:2.1.0): StorageDrawers-1.12-5.2.9.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	StorageDrawersAPI|event(API: StorageDrawersAPI|event:2.1.0): StorageDrawers-1.12-5.2.9.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	storagedrawers(Storage Drawers:1.12-5.2.5): StorageDrawers-1.12-5.2.9.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	tombmanygraves(Tomb Many Graves:@VERSION@): TombManyGraves-1.12-4.0.0.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	ChiselsAndBitsAPI(API: ChiselsAndBitsAPI:13.8.0): chiselsandbits-14.6.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	JustEnoughItemsAPI(API: JustEnoughItemsAPI:4.13.0): jei_1.12-4.7.5.85.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	journeymap|client-api-display(API: journeymap|client-api-display:1.3-SNAPSHOT): journeymap-1.12-5.4.9.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	journeymap|client-api-model(API: journeymap|client-api-model:1.3-SNAPSHOT): journeymap-1.12-5.4.9.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	journeymap|client-api(API: journeymap|client-api:1.3-SNAPSHOT): journeymap-1.12-5.4.9.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	journeymap|client-api-event(API: journeymap|client-api-event:1.3-SNAPSHOT): journeymap-1.12-5.4.9.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	journeymap|client-api-util(API: journeymap|client-api-util:1.3-SNAPSHOT): journeymap-1.12-5.4.9.jar ()
+[13:23:11] [main/DEBUG] [FML/]: 	chesttransporter|api(API: chesttransporter|api:2): ChestTransporter-1.12-2.8.7.jar ()
+[13:23:11] [main/DEBUG] [FML/]: Loading @Config anotation data
+[13:23:11] [main/TRACE] [minecraft/minecraft]: Sending event FMLConstructionEvent to mod minecraft
+[13:23:11] [main/TRACE] [minecraft/minecraft]: Sent event FMLConstructionEvent to mod minecraft
+[13:23:11] [main/DEBUG] [FML/]: Bar Step: Construction - Minecraft took 0.002s
+[13:23:11] [main/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[13:23:11] [main/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[13:23:11] [main/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.010s
+[13:23:11] [main/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[13:23:11] [main/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[13:23:11] [main/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[13:23:11] [main/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
+[13:23:11] [main/INFO] [FML/FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, betterbuilderswands, chameleon, chesttransporter, chiselsandbits, ftbl, ftbu, waila, jei, journeymap, morpheus, storagedrawers, tombmanygraves] at CLIENT
+[13:23:11] [main/INFO] [FML/FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, betterbuilderswands, chameleon, chesttransporter, chiselsandbits, ftbl, ftbu, waila, jei, journeymap, morpheus, storagedrawers, tombmanygraves] at SERVER
+[13:23:12] [main/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.415s
+[13:23:12] [main/TRACE] [forge/forge]: Sending event FMLConstructionEvent to mod forge
+[13:23:12] [main/DEBUG] [forge/forge]: Preloading CrashReport Classes
+[13:23:12] [main/DEBUG] [forge/forge]: 	net/minecraftforge/common/util/TextTable
+[13:23:12] [main/DEBUG] [forge/forge]: 	net/minecraftforge/common/util/TextTable$Alignment
+[13:23:12] [main/DEBUG] [forge/forge]: 	net/minecraftforge/common/util/TextTable$Column
+[13:23:12] [main/DEBUG] [forge/forge]: 	net/minecraftforge/common/util/TextTable$Row
+[13:23:12] [main/DEBUG] [forge/forge]: 	net/minecraftforge/fml/client/SplashProgress$1
+[13:23:12] [main/DEBUG] [forge/forge]: 	net/minecraftforge/fml/common/FMLCommonHandler$1
+[13:23:12] [main/DEBUG] [forge/forge]: 	net/minecraftforge/fml/common/Loader$1
+[13:23:12] [main/TRACE] [FML/forge]: Mod forge is using network checker : No network checking performed
+[13:23:12] [main/TRACE] [FML/forge]: Testing mod forge to verify it accepts its own version in a remote connection
+[13:23:12] [main/TRACE] [FML/forge]: The mod forge accepts its own version (14.22.0.2460)
+[13:23:12] [main/DEBUG] [FML/forge]: Attempting to inject @Config classes into forge for type INSTANCE
+[13:23:12] [main/TRACE] [forge/forge]: Sent event FMLConstructionEvent to mod forge
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.059s
+[13:23:12] [main/TRACE] [betterbuilderswands/betterbuilderswands]: Sending event FMLConstructionEvent to mod betterbuilderswands
+[13:23:12] [main/TRACE] [FML/betterbuilderswands]: Mod betterbuilderswands is using network checker : Accepting version 0.11.1
+[13:23:12] [main/TRACE] [FML/betterbuilderswands]: Testing mod betterbuilderswands to verify it accepts its own version in a remote connection
+[13:23:12] [main/TRACE] [FML/betterbuilderswands]: The mod betterbuilderswands accepts its own version (0.11.1)
+[13:23:12] [main/DEBUG] [FML/betterbuilderswands]: Attempting to inject @SidedProxy classes into betterbuilderswands
+[13:23:12] [main/DEBUG] [FML/betterbuilderswands]: Attempting to inject @EventBusSubscriber classes into the eventbus for betterbuilderswands
+[13:23:12] [main/DEBUG] [FML/betterbuilderswands]: Attempting to inject @Config classes into betterbuilderswands for type INSTANCE
+[13:23:12] [main/TRACE] [betterbuilderswands/betterbuilderswands]: Sent event FMLConstructionEvent to mod betterbuilderswands
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Construction - Better Builder's Wands took 0.054s
+[13:23:12] [main/TRACE] [chameleon/chameleon]: Sending event FMLConstructionEvent to mod chameleon
+[13:23:12] [main/TRACE] [FML/chameleon]: Mod chameleon is using network checker : Accepting version 1.12-4.1.3
+[13:23:12] [main/TRACE] [FML/chameleon]: Testing mod chameleon to verify it accepts its own version in a remote connection
+[13:23:12] [main/TRACE] [FML/chameleon]: The mod chameleon accepts its own version (1.12-4.1.3)
+[13:23:12] [main/DEBUG] [FML/chameleon]: Attempting to inject @SidedProxy classes into chameleon
+[13:23:12] [main/DEBUG] [FML/chameleon]: Attempting to inject @EventBusSubscriber classes into the eventbus for chameleon
+[13:23:12] [main/DEBUG] [FML/chameleon]: Attempting to inject @Config classes into chameleon for type INSTANCE
+[13:23:12] [main/TRACE] [chameleon/chameleon]: Sent event FMLConstructionEvent to mod chameleon
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Construction - Chameleon took 0.014s
+[13:23:12] [main/TRACE] [chesttransporter/chesttransporter]: Sending event FMLConstructionEvent to mod chesttransporter
+[13:23:12] [main/TRACE] [FML/chesttransporter]: Mod chesttransporter is using network checker : Accepting version 2.8.7
+[13:23:12] [main/TRACE] [FML/chesttransporter]: Testing mod chesttransporter to verify it accepts its own version in a remote connection
+[13:23:12] [main/TRACE] [FML/chesttransporter]: The mod chesttransporter accepts its own version (2.8.7)
+[13:23:12] [main/DEBUG] [FML/chesttransporter]: Attempting to inject @SidedProxy classes into chesttransporter
+[13:23:12] [main/DEBUG] [FML/chesttransporter]: Attempting to inject @EventBusSubscriber classes into the eventbus for chesttransporter
+[13:23:12] [main/DEBUG] [FML/chesttransporter]: Attempting to inject @Config classes into chesttransporter for type INSTANCE
+[13:23:12] [main/TRACE] [chesttransporter/chesttransporter]: Sent event FMLConstructionEvent to mod chesttransporter
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Construction - Chest Transporter took 0.017s
+[13:23:12] [main/TRACE] [chiselsandbits/chiselsandbits]: Sending event FMLConstructionEvent to mod chiselsandbits
+[13:23:12] [main/TRACE] [FML/chiselsandbits]: Mod chiselsandbits is using network checker : Accepting version 14.6
+[13:23:12] [main/TRACE] [FML/chiselsandbits]: Testing mod chiselsandbits to verify it accepts its own version in a remote connection
+[13:23:12] [main/TRACE] [FML/chiselsandbits]: The mod chiselsandbits accepts its own version (14.6)
+[13:23:12] [main/DEBUG] [FML/chiselsandbits]: Attempting to inject @SidedProxy classes into chiselsandbits
+[13:23:12] [main/DEBUG] [FML/chiselsandbits]: Attempting to inject @EventBusSubscriber classes into the eventbus for chiselsandbits
+[13:23:12] [main/DEBUG] [FML/chiselsandbits]: Attempting to inject @Config classes into chiselsandbits for type INSTANCE
+[13:23:12] [main/TRACE] [chiselsandbits/chiselsandbits]: Sent event FMLConstructionEvent to mod chiselsandbits
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Construction - Chisels & Bits took 0.038s
+[13:23:12] [main/TRACE] [ftbl/ftbl]: Sending event FMLConstructionEvent to mod ftbl
+[13:23:12] [main/TRACE] [FML/ftbl]: Mod ftbl is using network checker : No network checking performed
+[13:23:12] [main/TRACE] [FML/ftbl]: Testing mod ftbl to verify it accepts its own version in a remote connection
+[13:23:12] [main/TRACE] [FML/ftbl]: The mod ftbl accepts its own version (0.0.0)
+[13:23:12] [main/DEBUG] [FML/ftbl]: Attempting to inject @SidedProxy classes into ftbl
+[13:23:12] [main/DEBUG] [FML/ftbl]: Attempting to inject @EventBusSubscriber classes into the eventbus for ftbl
+[13:23:12] [main/DEBUG] [FML/ftbl]: Attempting to inject @Config classes into ftbl for type INSTANCE
+[13:23:12] [main/TRACE] [ftbl/ftbl]: Sent event FMLConstructionEvent to mod ftbl
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Construction - FTBLib took 0.061s
+[13:23:12] [main/TRACE] [ftbu/ftbu]: Sending event FMLConstructionEvent to mod ftbu
+[13:23:12] [main/TRACE] [FML/ftbu]: Mod ftbu is using network checker : No network checking performed
+[13:23:12] [main/TRACE] [FML/ftbu]: Testing mod ftbu to verify it accepts its own version in a remote connection
+[13:23:12] [main/TRACE] [FML/ftbu]: The mod ftbu accepts its own version (0.0.0)
+[13:23:12] [main/DEBUG] [FML/ftbu]: Attempting to inject @SidedProxy classes into ftbu
+[13:23:12] [main/DEBUG] [FML/ftbu]: Attempting to inject @EventBusSubscriber classes into the eventbus for ftbu
+[13:23:12] [main/DEBUG] [FML/ftbu]: Attempting to inject @Config classes into ftbu for type INSTANCE
+[13:23:12] [main/TRACE] [ftbu/ftbu]: Sent event FMLConstructionEvent to mod ftbu
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Construction - FTBUtilities took 0.029s
+[13:23:12] [main/TRACE] [waila/waila]: Sending event FMLConstructionEvent to mod waila
+[13:23:12] [main/TRACE] [FML/waila]: Mod waila is using network checker : No network checking performed
+[13:23:12] [main/TRACE] [FML/waila]: Testing mod waila to verify it accepts its own version in a remote connection
+[13:23:12] [main/TRACE] [FML/waila]: The mod waila accepts its own version (1.8.20)
+[13:23:12] [main/DEBUG] [FML/waila]: Attempting to inject @SidedProxy classes into waila
+[13:23:12] [main/DEBUG] [FML/waila]: Attempting to inject @EventBusSubscriber classes into the eventbus for waila
+[13:23:12] [main/DEBUG] [FML/waila]: Attempting to inject @Config classes into waila for type INSTANCE
+[13:23:12] [main/TRACE] [waila/waila]: Sent event FMLConstructionEvent to mod waila
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Construction - Waila took 0.021s
+[13:23:12] [main/TRACE] [jei/jei]: Sending event FMLConstructionEvent to mod jei
+[13:23:12] [main/TRACE] [FML/jei]: Mod jei is using network checker : Invoking method checkModLists
+[13:23:12] [main/TRACE] [FML/jei]: Testing mod jei to verify it accepts its own version in a remote connection
+[13:23:12] [main/TRACE] [FML/jei]: The mod jei accepts its own version (4.7.5.85)
+[13:23:12] [main/DEBUG] [FML/jei]: Attempting to inject @SidedProxy classes into jei
+[13:23:12] [main/DEBUG] [FML/jei]: Attempting to inject @EventBusSubscriber classes into the eventbus for jei
+[13:23:12] [main/DEBUG] [FML/jei]: Registering @EventBusSubscriber for mezz.jei.input.MouseHelper for mod jei
+[13:23:12] [main/DEBUG] [FML/jei]: Injected @EventBusSubscriber class mezz.jei.input.MouseHelper
+[13:23:12] [main/DEBUG] [FML/jei]: Attempting to inject @Config classes into jei for type INSTANCE
+[13:23:12] [main/TRACE] [jei/jei]: Sent event FMLConstructionEvent to mod jei
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Construction - Just Enough Items took 0.032s
+[13:23:12] [main/TRACE] [journeymap/journeymap]: Sending event FMLConstructionEvent to mod journeymap
+[13:23:12] [main/TRACE] [FML/journeymap]: Mod journeymap is using network checker : Invoking method checkModLists
+[13:23:12] [main/TRACE] [FML/journeymap]: Testing mod journeymap to verify it accepts its own version in a remote connection
+[13:23:12] [main/TRACE] [FML/journeymap]: The mod journeymap accepts its own version (1.12-5.4.9)
+[13:23:12] [main/DEBUG] [FML/journeymap]: Attempting to inject @SidedProxy classes into journeymap
+[13:23:12] [main/DEBUG] [FML/journeymap]: Attempting to inject @EventBusSubscriber classes into the eventbus for journeymap
+[13:23:12] [main/DEBUG] [FML/journeymap]: Attempting to inject @Config classes into journeymap for type INSTANCE
+[13:23:12] [main/TRACE] [journeymap/journeymap]: Sent event FMLConstructionEvent to mod journeymap
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Construction - JourneyMap took 0.025s
+[13:23:12] [main/TRACE] [morpheus/morpheus]: Sending event FMLConstructionEvent to mod morpheus
+[13:23:12] [main/TRACE] [FML/morpheus]: Mod morpheus is using network checker : No network checking performed
+[13:23:12] [main/TRACE] [FML/morpheus]: Testing mod morpheus to verify it accepts its own version in a remote connection
+[13:23:12] [main/TRACE] [FML/morpheus]: The mod morpheus accepts its own version (1.12-3.3.2)
+[13:23:12] [main/DEBUG] [FML/morpheus]: Attempting to inject @SidedProxy classes into morpheus
+[13:23:12] [main/DEBUG] [FML/morpheus]: Attempting to inject @EventBusSubscriber classes into the eventbus for morpheus
+[13:23:12] [main/DEBUG] [FML/morpheus]: Attempting to inject @Config classes into morpheus for type INSTANCE
+[13:23:12] [main/TRACE] [morpheus/morpheus]: Sent event FMLConstructionEvent to mod morpheus
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Construction - Morpheus took 0.008s
+[13:23:12] [main/TRACE] [storagedrawers/storagedrawers]: Sending event FMLConstructionEvent to mod storagedrawers
+[13:23:12] [main/TRACE] [FML/storagedrawers]: Mod storagedrawers is using network checker : Accepting version 1.12-5.2.5
+[13:23:12] [main/TRACE] [FML/storagedrawers]: Testing mod storagedrawers to verify it accepts its own version in a remote connection
+[13:23:12] [main/TRACE] [FML/storagedrawers]: The mod storagedrawers accepts its own version (1.12-5.2.5)
+[13:23:12] [main/DEBUG] [FML/storagedrawers]: Attempting to inject @SidedProxy classes into storagedrawers
+[13:23:12] [main/DEBUG] [FML/storagedrawers]: Attempting to inject @EventBusSubscriber classes into the eventbus for storagedrawers
+[13:23:12] [main/DEBUG] [FML/storagedrawers]: Registering @EventBusSubscriber for com.jaquadro.minecraft.storagedrawers.core.ModBlocks$Registration for mod storagedrawers
+[13:23:12] [main/DEBUG] [FML/storagedrawers]: Injected @EventBusSubscriber class com.jaquadro.minecraft.storagedrawers.core.ModBlocks$Registration
+[13:23:12] [main/DEBUG] [FML/storagedrawers]: Registering @EventBusSubscriber for com.jaquadro.minecraft.storagedrawers.core.ModItems$Registration for mod storagedrawers
+[13:23:12] [main/DEBUG] [FML/storagedrawers]: Injected @EventBusSubscriber class com.jaquadro.minecraft.storagedrawers.core.ModItems$Registration
+[13:23:12] [main/DEBUG] [FML/storagedrawers]: Attempting to inject @Config classes into storagedrawers for type INSTANCE
+[13:23:12] [main/TRACE] [storagedrawers/storagedrawers]: Sent event FMLConstructionEvent to mod storagedrawers
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Construction - Storage Drawers took 0.088s
+[13:23:12] [main/TRACE] [tombmanygraves/tombmanygraves]: Sending event FMLConstructionEvent to mod tombmanygraves
+[13:23:12] [main/TRACE] [FML/tombmanygraves]: Mod tombmanygraves is using network checker : Accepting version @VERSION@
+[13:23:12] [main/TRACE] [FML/tombmanygraves]: Testing mod tombmanygraves to verify it accepts its own version in a remote connection
+[13:23:12] [main/TRACE] [FML/tombmanygraves]: The mod tombmanygraves accepts its own version (@VERSION@)
+[13:23:12] [main/DEBUG] [FML/tombmanygraves]: Attempting to inject @SidedProxy classes into tombmanygraves
+[13:23:12] [main/DEBUG] [FML/tombmanygraves]: Attempting to inject @EventBusSubscriber classes into the eventbus for tombmanygraves
+[13:23:12] [main/DEBUG] [FML/tombmanygraves]: Attempting to inject @Config classes into tombmanygraves for type INSTANCE
+[13:23:12] [main/TRACE] [tombmanygraves/tombmanygraves]: Sent event FMLConstructionEvent to mod tombmanygraves
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Construction - Tomb Many Graves took 0.011s
+[13:23:12] [main/DEBUG] [FML/]: Bar Finished: Construction took 0.885s
+[13:23:12] [main/DEBUG] [FML/]: Mod signature data
+[13:23:12] [main/DEBUG] [FML/]:  	Valid Signatures:
+[13:23:12] [main/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	8.0.99.99)	forge-1.12.1-14.22.0.2460-universal.jar
+[13:23:12] [main/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) forge	(Minecraft Forge	14.22.0.2460)	forge-1.12.1-14.22.0.2460-universal.jar
+[13:23:12] [main/DEBUG] [FML/]:  	Missing Signatures:
+[13:23:12] [main/DEBUG] [FML/]: 		minecraft	(Minecraft	1.12.1)	minecraft.jar
+[13:23:12] [main/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.19)	minecraft.jar
+[13:23:12] [main/DEBUG] [FML/]: 		betterbuilderswands	(Better Builder's Wands	0.11.1)	BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar
+[13:23:12] [main/DEBUG] [FML/]: 		chameleon	(Chameleon	1.12-4.1.3)	Chameleon-1.12-4.1.3.jar
+[13:23:12] [main/DEBUG] [FML/]: 		chesttransporter	(Chest Transporter	2.8.7)	ChestTransporter-1.12-2.8.7.jar
+[13:23:12] [main/DEBUG] [FML/]: 		chiselsandbits	(Chisels & Bits	14.6)	chiselsandbits-14.6.jar
+[13:23:12] [main/DEBUG] [FML/]: 		ftbl	(FTBLib	0.0.0)	FTBLib-4.0.5.jar
+[13:23:12] [main/DEBUG] [FML/]: 		ftbu	(FTBUtilities	0.0.0)	FTBUtilities-4.0.3.jar
+[13:23:12] [main/DEBUG] [FML/]: 		waila	(Waila	1.8.20)	Hwyla-1.8.20-B35_1.12.jar
+[13:23:12] [main/DEBUG] [FML/]: 		jei	(Just Enough Items	4.7.5.85)	jei_1.12-4.7.5.85.jar
+[13:23:12] [main/DEBUG] [FML/]: 		journeymap	(JourneyMap	1.12-5.4.9)	journeymap-1.12-5.4.9.jar
+[13:23:12] [main/DEBUG] [FML/]: 		morpheus	(Morpheus	1.12-3.3.2)	Morpheus-1.12-3.3.2.jar
+[13:23:12] [main/DEBUG] [FML/]: 		storagedrawers	(Storage Drawers	1.12-5.2.5)	StorageDrawers-1.12-5.2.9.jar
+[13:23:12] [main/DEBUG] [FML/]: 		tombmanygraves	(Tomb Many Graves	@VERSION@)	TombManyGraves-1.12-4.0.0.jar
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Loading Resources - Default took 0.003s
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Forge Mod Loader took 0.001s
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Minecraft Forge took 0.001s
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Better Builder's Wands took 0.001s
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Chameleon took 0.000s
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Chest Transporter took 0.001s
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Chisels & Bits took 0.001s
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:FTBLib took 0.001s
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:FTBUtilities took 0.000s
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Waila took 0.000s
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Just Enough Items took 0.000s
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:JourneyMap took 0.001s
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Morpheus took 0.000s
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Storage Drawers took 0.001s
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Tomb Many Graves took 0.000s
+[13:23:12] [main/DEBUG] [FML/]: Bar Finished: Reloading - LanguageManager took 0.028s
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: Loading Resources - Reloading listeners took 0.028s
+[13:23:12] [main/DEBUG] [FML/]: Bar Finished: Loading Resources took 0.041s
+[13:23:12] [main/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[13:23:12] [main/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[13:23:12] [main/DEBUG] [Chest Transporter/]: Mod Chest Transporter is missing a pack.mcmeta file, substituting a dummy one
+[13:23:12] [main/DEBUG] [FTBLib/]: Mod FTBLib is missing a pack.mcmeta file, substituting a dummy one
+[13:23:12] [main/DEBUG] [FTBUtilities/]: Mod FTBUtilities is missing a pack.mcmeta file, substituting a dummy one
+[13:23:12] [main/DEBUG] [Waila/]: Mod Waila is missing a pack.mcmeta file, substituting a dummy one
+[13:23:12] [main/DEBUG] [JourneyMap/]: Mod JourneyMap is missing a pack.mcmeta file, substituting a dummy one
+[13:23:12] [main/DEBUG] [Morpheus/]: Mod Morpheus is missing a pack.mcmeta file, substituting a dummy one
+[13:23:12] [main/DEBUG] [Tomb Many Graves/]: Mod Tomb Many Graves is missing a pack.mcmeta file, substituting a dummy one
+[13:23:12] [main/INFO] [FML/]: Processing ObjectHolder annotations
+[13:23:12] [main/INFO] [FML/]: Found 1190 ObjectHolder annotations
+[13:23:12] [main/INFO] [FML/]: Identifying ItemStackHolder annotations
+[13:23:12] [main/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[13:23:12] [main/TRACE] [minecraft/minecraft]: Sending event FMLPreInitializationEvent to mod minecraft
+[13:23:12] [main/TRACE] [minecraft/minecraft]: Sent event FMLPreInitializationEvent to mod minecraft
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft took 0.003s
+[13:23:12] [main/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[13:23:12] [main/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.002s
+[13:23:12] [main/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[13:23:12] [main/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.001s
+[13:23:12] [main/TRACE] [forge/forge]: Sending event FMLPreInitializationEvent to mod forge
+[13:23:12] [main/INFO] [FML/forge]: Configured a dormant chunk cache size of 0
+[13:23:12] [main/TRACE] [forge/forge]: Sent event FMLPreInitializationEvent to mod forge
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.116s
+[13:23:12] [main/TRACE] [betterbuilderswands/betterbuilderswands]: Sending event FMLPreInitializationEvent to mod betterbuilderswands
+[13:23:12] [main/INFO] [betterbuilderswands/betterbuilderswands]: Access transform success createStackedBlock (func_180643_i).
+[13:23:12] [main/TRACE] [betterbuilderswands/betterbuilderswands]: Sent event FMLPreInitializationEvent to mod betterbuilderswands
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Better Builder's Wands took 0.036s
+[13:23:12] [main/TRACE] [chameleon/chameleon]: Sending event FMLPreInitializationEvent to mod chameleon
+[13:23:12] [main/TRACE] [chameleon/chameleon]: Sent event FMLPreInitializationEvent to mod chameleon
+[13:23:12] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Chameleon took 0.030s
+[13:23:12] [main/TRACE] [chesttransporter/chesttransporter]: Sending event FMLPreInitializationEvent to mod chesttransporter
+[13:23:12] [main/DEBUG] [FML/chesttransporter]: Bar Finished: Loading Resource - B3DLoader took 0.000s
+[13:23:12] [main/DEBUG] [FML/chesttransporter]: Bar Finished: Loading Resource - OBJLoader took 0.000s
+[13:23:12] [main/DEBUG] [FML/chesttransporter]: Bar Finished: Loading Resource - ModelFluid$FluidLoader took 0.000s
+[13:23:12] [main/DEBUG] [FML/chesttransporter]: Bar Finished: Loading Resource - ItemLayerModel$Loader took 0.000s
+[13:23:12] [main/DEBUG] [FML/chesttransporter]: Bar Finished: Loading Resource - MultiLayerModel$Loader took 0.000s
+[13:23:12] [main/DEBUG] [FML/chesttransporter]: Bar Finished: Loading Resource - ModelDynBucket$LoaderDynBucket took 0.000s
+[13:23:12] [main/DEBUG] [FML/chesttransporter]: Bar Finished: Loading Resource - ModelLoaderCT took 0.000s
+[13:23:13] [main/TRACE] [chesttransporter/chesttransporter]: Sent event FMLPreInitializationEvent to mod chesttransporter
+[13:23:13] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Chest Transporter took 0.073s
+[13:23:13] [main/TRACE] [chiselsandbits/chiselsandbits]: Sending event FMLPreInitializationEvent to mod chiselsandbits
+[13:23:13] [main/TRACE] [chiselsandbits/chiselsandbits]: Sent event FMLPreInitializationEvent to mod chiselsandbits
+[13:23:13] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Chisels & Bits took 0.266s
+[13:23:13] [main/TRACE] [ftbl/ftbl]: Sending event FMLPreInitializationEvent to mod ftbl
+[13:23:13] [main/INFO] [FTBLib/ftbl]: Loading FTBLib, DevEnv:false
+[13:23:13] [main/DEBUG] [FML/ftbl]: Bar Finished: Loading Resource - FTBLibModClient took 0.027s
+[13:23:13] [main/WARN] [FML/ftbl]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with com.feed_the_beast.ftbu.api_impl.FTBUtilitiesAPI_Impl
+[13:23:13] [main/TRACE] [ftbl/ftbl]: Sent event FMLPreInitializationEvent to mod ftbl
+[13:23:13] [main/DEBUG] [FML/]: Bar Step: PreInitialization - FTBLib took 0.358s
+[13:23:13] [main/TRACE] [ftbu/ftbu]: Sending event FMLPreInitializationEvent to mod ftbu
+[13:23:13] [main/TRACE] [ftbu/ftbu]: Sent event FMLPreInitializationEvent to mod ftbu
+[13:23:13] [main/DEBUG] [FML/]: Bar Step: PreInitialization - FTBUtilities took 0.079s
+[13:23:13] [main/TRACE] [waila/waila]: Sending event FMLPreInitializationEvent to mod waila
+[13:23:13] [main/TRACE] [waila/waila]: Sent event FMLPreInitializationEvent to mod waila
+[13:23:13] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Waila took 0.044s
+[13:23:13] [main/TRACE] [jei/jei]: Sending event FMLPreInitializationEvent to mod jei
+[13:23:13] [main/TRACE] [jei/jei]: Sent event FMLPreInitializationEvent to mod jei
+[13:23:13] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Just Enough Items took 0.063s
+[13:23:13] [main/TRACE] [journeymap/journeymap]: Sending event FMLPreInitializationEvent to mod journeymap
+[13:23:13] [main/INFO] [journeymap/journeymap]: Found @journeymap.client.api.ClientPlugin: com.feed_the_beast.ftbu.integration.JourneyMapIntegration
+[13:23:13] [main/TRACE] [journeymap/journeymap]: Sent event FMLPreInitializationEvent to mod journeymap
+[13:23:13] [main/DEBUG] [FML/]: Bar Step: PreInitialization - JourneyMap took 0.012s
+[13:23:13] [main/TRACE] [morpheus/morpheus]: Sending event FMLPreInitializationEvent to mod morpheus
+[13:23:13] [main/INFO] [morpheus/morpheus]: Loading configuration
+[13:23:13] [main/TRACE] [morpheus/morpheus]: Sent event FMLPreInitializationEvent to mod morpheus
+[13:23:13] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Morpheus took 0.001s
+[13:23:13] [main/TRACE] [storagedrawers/storagedrawers]: Sending event FMLPreInitializationEvent to mod storagedrawers
+[13:23:13] [main/TRACE] [storagedrawers/storagedrawers]: Sent event FMLPreInitializationEvent to mod storagedrawers
+[13:23:13] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Storage Drawers took 0.049s
+[13:23:13] [main/TRACE] [tombmanygraves/tombmanygraves]: Sending event FMLPreInitializationEvent to mod tombmanygraves
+[13:23:13] [main/INFO] [tombmanygraves/tombmanygraves]: [TombManyGraves]: Successfully loaded the friend list.
+[13:23:13] [main/TRACE] [tombmanygraves/tombmanygraves]: Sent event FMLPreInitializationEvent to mod tombmanygraves
+[13:23:13] [main/DEBUG] [FML/]: Bar Step: PreInitialization - Tomb Many Graves took 0.036s
+[13:23:13] [main/DEBUG] [FML/]: Bar Finished: PreInitialization took 1.168s
+[13:23:13] [main/INFO] [FML/]: Applying holder lookups
+[13:23:13] [main/DEBUG] [FML/]: Unable to lookup storagedrawers:drawer_key for public static com.jaquadro.minecraft.storagedrawers.item.ItemDrawerKey com.jaquadro.minecraft.storagedrawers.core.ModItems.drawerKey. This means the object wasn't registered. It's likely just mod options.
+[13:23:13] [main/DEBUG] [FML/]: Unable to lookup storagedrawers:upgrade_template for public static net.minecraft.item.Item com.jaquadro.minecraft.storagedrawers.core.ModItems.upgradeTemplate. This means the object wasn't registered. It's likely just mod options.
+[13:23:13] [main/DEBUG] [FML/]: Unable to lookup storagedrawers:upgrade_redstone for public static com.jaquadro.minecraft.storagedrawers.item.ItemUpgradeRedstone com.jaquadro.minecraft.storagedrawers.core.ModItems.upgradeRedstone. This means the object wasn't registered. It's likely just mod options.
+[13:23:13] [main/DEBUG] [FML/]: Unable to lookup storagedrawers:upgrade_conversion for public static com.jaquadro.minecraft.storagedrawers.item.ItemUpgrade com.jaquadro.minecraft.storagedrawers.core.ModItems.upgradeConversion. This means the object wasn't registered. It's likely just mod options.
+[13:23:13] [main/DEBUG] [FML/]: Unable to lookup storagedrawers:upgrade_creative for public static com.jaquadro.minecraft.storagedrawers.item.ItemUpgradeCreative com.jaquadro.minecraft.storagedrawers.core.ModItems.upgradeCreative. This means the object wasn't registered. It's likely just mod options.
+[13:23:13] [main/DEBUG] [FML/]: Unable to lookup storagedrawers:upgrade_void for public static com.jaquadro.minecraft.storagedrawers.item.ItemUpgrade com.jaquadro.minecraft.storagedrawers.core.ModItems.upgradeVoid. This means the object wasn't registered. It's likely just mod options.
+[13:23:13] [main/DEBUG] [FML/]: Unable to lookup storagedrawers:quantify_key for public static com.jaquadro.minecraft.storagedrawers.item.ItemQuantifyKey com.jaquadro.minecraft.storagedrawers.core.ModItems.quantifyKey. This means the object wasn't registered. It's likely just mod options.
+[13:23:13] [main/DEBUG] [FML/]: Unable to lookup storagedrawers:personal_key for public static com.jaquadro.minecraft.storagedrawers.item.ItemPersonalKey com.jaquadro.minecraft.storagedrawers.core.ModItems.personalKey. This means the object wasn't registered. It's likely just mod options.
+[13:23:13] [main/DEBUG] [FML/]: Unable to lookup storagedrawers:upgrade_one_stack for public static com.jaquadro.minecraft.storagedrawers.item.ItemUpgrade com.jaquadro.minecraft.storagedrawers.core.ModItems.upgradeOneStack. This means the object wasn't registered. It's likely just mod options.
+[13:23:13] [main/DEBUG] [FML/]: Unable to lookup storagedrawers:shroud_key for public static com.jaquadro.minecraft.storagedrawers.item.ItemShroudKey com.jaquadro.minecraft.storagedrawers.core.ModItems.shroudKey. This means the object wasn't registered. It's likely just mod options.
+[13:23:13] [main/DEBUG] [FML/]: Unable to lookup storagedrawers:upgrade_status for public static com.jaquadro.minecraft.storagedrawers.item.ItemUpgradeStatus com.jaquadro.minecraft.storagedrawers.core.ModItems.upgradeStatus. This means the object wasn't registered. It's likely just mod options.
+[13:23:13] [main/DEBUG] [FML/]: Unable to lookup storagedrawers:tape for public static com.jaquadro.minecraft.storagedrawers.item.ItemTape com.jaquadro.minecraft.storagedrawers.core.ModItems.tape. This means the object wasn't registered. It's likely just mod options.
+[13:23:13] [main/DEBUG] [FML/]: Unable to lookup storagedrawers:upgrade_storage for public static com.jaquadro.minecraft.storagedrawers.item.ItemUpgradeStorage com.jaquadro.minecraft.storagedrawers.core.ModItems.upgradeStorage. This means the object wasn't registered. It's likely just mod options.
+[13:23:13] [main/INFO] [FML/]: Holder lookups applied
+[13:23:14] [main/INFO] [FML/]: Applying holder lookups
+[13:23:14] [main/INFO] [FML/]: Holder lookups applied
+[13:23:14] [main/INFO] [FML/]: Applying holder lookups
+[13:23:14] [main/INFO] [FML/]: Holder lookups applied
+[13:23:14] [main/INFO] [FML/]: Applying holder lookups
+[13:23:14] [main/INFO] [FML/]: Holder lookups applied
+[13:23:14] [main/INFO] [FML/]: Injecting itemstacks
+[13:23:14] [main/INFO] [FML/]: Itemstack injection complete
+[13:23:14] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - TextureManager took 0.000s
+[13:23:14] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - SoundHandler took 0.300s
+[13:23:14] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.004s
+[13:23:14] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.005s
+[13:23:14] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - GrassColorReloadListener took 0.020s
+[13:23:14] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - FoliageColorReloadListener took 0.011s
+[13:23:14] [main/DEBUG] [FML/]: Bar Step: Rendering Setup - GL Setup took 0.001s
+[13:23:14] [main/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Texture Map took 0.002s
+[13:23:15] [main/DEBUG] [FML/]: Bar Finished: ModelLoader: blocks took 1.405s
+[13:23:15] [main/DEBUG] [FML/]: Item json isn't found for 'chiselsandbits:block_bit#inventory', trying to load the variant from the blockstate json
+[13:23:15] [main/DEBUG] [FML/]: Item json isn't found for 'chiselsandbits:block_chiseled#inventory', trying to load the variant from the blockstate json
+[13:23:15] [main/DEBUG] [FML/]: Item json isn't found for 'chiselsandbits:block_chiseled#inventory', trying to load the variant from the blockstate json
+[13:23:15] [main/DEBUG] [FML/]: Item json isn't found for 'chiselsandbits:block_chiseled#inventory', trying to load the variant from the blockstate json
+[13:23:15] [main/DEBUG] [FML/]: Item json isn't found for 'chiselsandbits:block_chiseled#inventory', trying to load the variant from the blockstate json
+[13:23:15] [main/DEBUG] [FML/]: Item json isn't found for 'chiselsandbits:block_chiseled#inventory', trying to load the variant from the blockstate json
+[13:23:15] [main/DEBUG] [FML/]: Item json isn't found for 'chiselsandbits:block_chiseled#inventory', trying to load the variant from the blockstate json
+[13:23:15] [main/DEBUG] [FML/]: Item json isn't found for 'chiselsandbits:block_chiseled#inventory', trying to load the variant from the blockstate json
+[13:23:15] [main/DEBUG] [FML/]: Item json isn't found for 'chiselsandbits:block_chiseled#inventory', trying to load the variant from the blockstate json
+[13:23:15] [main/DEBUG] [FML/]: Item json isn't found for 'chiselsandbits:block_chiseled#inventory', trying to load the variant from the blockstate json
+[13:23:15] [main/DEBUG] [FML/]: Item json isn't found for 'chiselsandbits:block_chiseled#inventory', trying to load the variant from the blockstate json
+[13:23:15] [main/DEBUG] [FML/]: Item json isn't found for 'chiselsandbits:block_chiseled#inventory', trying to load the variant from the blockstate json
+[13:23:15] [main/DEBUG] [FML/]: Item json isn't found for 'chiselsandbits:block_chiseled#inventory', trying to load the variant from the blockstate json
+[13:23:15] [main/DEBUG] [FML/]: Item json isn't found for 'chiselsandbits:block_chiseled#inventory', trying to load the variant from the blockstate json
+[13:23:15] [main/DEBUG] [FML/]: Item json isn't found for 'chiselsandbits:block_chiseled#inventory', trying to load the variant from the blockstate json
+[13:23:16] [main/DEBUG] [FML/]: Item json isn't found for 'storagedrawers:customdrawers#inventory', trying to load the variant from the blockstate json
+[13:23:16] [main/DEBUG] [FML/]: Item json isn't found for 'storagedrawers:customtrim#inventory', trying to load the variant from the blockstate json
+[13:23:16] [main/DEBUG] [FML/]: Item json isn't found for 'storagedrawers:framingtable#inventory', trying to load the variant from the blockstate json
+[13:23:16] [main/DEBUG] [FML/]: Item json isn't found for 'tombmanygraves:grave_block#inventory', trying to load the variant from the blockstate json
+[13:23:16] [main/DEBUG] [FML/]: Bar Finished: ModelLoader: items took 0.463s
+[13:23:16] [main/INFO] [FML/]: Max texture size: 16384
+[13:23:17] [main/DEBUG] [FML/]: Bar Finished: Texture stitching took 1.261s
+[13:23:17] [main/DEBUG] [FML/]: Bar Finished: Texture stitching took 0.050s
+[13:23:17] [main/DEBUG] [FML/]: Bar Finished: Texture creation took 0.057s
+[13:23:17] [main/DEBUG] [FML/]: Bar Finished: Texture mipmap and upload took 0.025s
+[13:23:18] [main/DEBUG] [FML/]: Bar Finished: ModelLoader: baking took 0.964s
+[13:23:18] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelManager took 4.409s
+[13:23:18] [main/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Model Manager took 4.433s
+[13:23:19] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderItem took 0.007s
+[13:23:19] [main/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Item Renderer took 0.300s
+[13:23:19] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - EntityRenderer took 0.000s
+[13:23:19] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - BlockRendererDispatcher took 0.000s
+[13:23:19] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderGlobal took 0.000s
+[13:23:19] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - SearchTreeManager took 0.191s
+[13:23:19] [main/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Entity Renderer took 0.555s
+[13:23:19] [main/DEBUG] [FML/]: Bar Finished: Rendering Setup took 5.291s
+[13:23:19] [main/INFO] [FML/]: Applying holder lookups
+[13:23:19] [main/INFO] [FML/]: Holder lookups applied
+[13:23:19] [main/TRACE] [minecraft/minecraft]: Sending event FMLInitializationEvent to mod minecraft
+[13:23:19] [main/TRACE] [minecraft/minecraft]: Sent event FMLInitializationEvent to mod minecraft
+[13:23:19] [main/DEBUG] [FML/]: Bar Step: Initialization - Minecraft took 0.000s
+[13:23:19] [main/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
+[13:23:19] [main/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
+[13:23:19] [main/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.000s
+[13:23:19] [main/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
+[13:23:19] [main/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
+[13:23:19] [main/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.000s
+[13:23:19] [main/TRACE] [forge/forge]: Sending event FMLInitializationEvent to mod forge
+[13:23:19] [main/TRACE] [forge/forge]: Sent event FMLInitializationEvent to mod forge
+[13:23:19] [main/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.000s
+[13:23:19] [main/TRACE] [betterbuilderswands/betterbuilderswands]: Sending event FMLInitializationEvent to mod betterbuilderswands
+[13:23:19] [main/TRACE] [betterbuilderswands/betterbuilderswands]: Sent event FMLInitializationEvent to mod betterbuilderswands
+[13:23:19] [main/DEBUG] [FML/]: Bar Step: Initialization - Better Builder's Wands took 0.023s
+[13:23:19] [main/TRACE] [chameleon/chameleon]: Sending event FMLInitializationEvent to mod chameleon
+[13:23:19] [main/TRACE] [chameleon/chameleon]: Sent event FMLInitializationEvent to mod chameleon
+[13:23:19] [main/DEBUG] [FML/]: Bar Step: Initialization - Chameleon took 0.000s
+[13:23:19] [main/TRACE] [chesttransporter/chesttransporter]: Sending event FMLInitializationEvent to mod chesttransporter
+[13:23:19] [main/TRACE] [chesttransporter/chesttransporter]: Sent event FMLInitializationEvent to mod chesttransporter
+[13:23:19] [main/DEBUG] [FML/]: Bar Step: Initialization - Chest Transporter took 0.000s
+[13:23:19] [main/TRACE] [chiselsandbits/chiselsandbits]: Sending event FMLInitializationEvent to mod chiselsandbits
+[13:23:19] [main/TRACE] [chiselsandbits/chiselsandbits]: Sent event FMLInitializationEvent to mod chiselsandbits
+[13:23:19] [main/DEBUG] [FML/]: Bar Step: Initialization - Chisels & Bits took 0.041s
+[13:23:19] [main/TRACE] [ftbl/ftbl]: Sending event FMLInitializationEvent to mod ftbl
+[13:23:19] [main/TRACE] [ftbl/ftbl]: Sent event FMLInitializationEvent to mod ftbl
+[13:23:19] [main/DEBUG] [FML/]: Bar Step: Initialization - FTBLib took 0.001s
+[13:23:19] [main/TRACE] [ftbu/ftbu]: Sending event FMLInitializationEvent to mod ftbu
+[13:23:19] [main/TRACE] [ftbu/ftbu]: Sent event FMLInitializationEvent to mod ftbu
+[13:23:19] [main/DEBUG] [FML/]: Bar Step: Initialization - FTBUtilities took 0.004s
+[13:23:19] [main/TRACE] [waila/waila]: Sending event FMLInitializationEvent to mod waila
+[13:23:20] [main/TRACE] [waila/waila]: Sent event FMLInitializationEvent to mod waila
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: Initialization - Waila took 0.026s
+[13:23:20] [main/TRACE] [jei/jei]: Sending event FMLInitializationEvent to mod jei
+[13:23:20] [main/TRACE] [jei/jei]: Sent event FMLInitializationEvent to mod jei
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: Initialization - Just Enough Items took 0.005s
+[13:23:20] [main/TRACE] [journeymap/journeymap]: Sending event FMLInitializationEvent to mod journeymap
+[13:23:20] [main/INFO] [journeymap/journeymap]: JourneyMap log initialized.
+[13:23:20] [main/INFO] [journeymap/journeymap]: initialize ENTER
+[13:23:20] [main/WARN] [journeymap/journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[13:23:20] [main/WARN] [journeymap/journeymap]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[13:23:20] [main/INFO] [journeymap/journeymap]: [ClientAPI] built with JourneyMap API 1.3-SNAPSHOT
+[13:23:20] [main/INFO] [journeymap/journeymap]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[13:23:20] [main/INFO] [journeymap/journeymap]: Initialized IClientPlugin: com.feed_the_beast.ftbu.integration.JourneyMapIntegration
+[13:23:20] [main/INFO] [journeymap/journeymap]: initialize EXIT, elapsed count 0 avg �ms
+[13:23:20] [main/TRACE] [journeymap/journeymap]: Sent event FMLInitializationEvent to mod journeymap
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: Initialization - JourneyMap took 0.424s
+[13:23:20] [main/TRACE] [morpheus/morpheus]: Sending event FMLInitializationEvent to mod morpheus
+[13:23:20] [main/TRACE] [morpheus/morpheus]: Sent event FMLInitializationEvent to mod morpheus
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: Initialization - Morpheus took 0.000s
+[13:23:20] [main/TRACE] [storagedrawers/storagedrawers]: Sending event FMLInitializationEvent to mod storagedrawers
+[13:23:20] [main/TRACE] [storagedrawers/storagedrawers]: Sent event FMLInitializationEvent to mod storagedrawers
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: Initialization - Storage Drawers took 0.017s
+[13:23:20] [main/TRACE] [tombmanygraves/tombmanygraves]: Sending event FMLInitializationEvent to mod tombmanygraves
+[13:23:20] [main/TRACE] [tombmanygraves/tombmanygraves]: Sent event FMLInitializationEvent to mod tombmanygraves
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: Initialization - Tomb Many Graves took 0.011s
+[13:23:20] [main/DEBUG] [FML/]: Bar Finished: Initialization took 0.554s
+[13:23:20] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod minecraft
+[13:23:20] [main/TRACE] [minecraft/minecraft]: Sending event IMCEvent to mod minecraft
+[13:23:20] [main/TRACE] [minecraft/minecraft]: Sent event IMCEvent to mod minecraft
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft took 0.000s
+[13:23:20] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
+[13:23:20] [main/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
+[13:23:20] [main/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.000s
+[13:23:20] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
+[13:23:20] [main/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
+[13:23:20] [main/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.000s
+[13:23:20] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod forge
+[13:23:20] [main/TRACE] [forge/forge]: Sending event IMCEvent to mod forge
+[13:23:20] [main/TRACE] [forge/forge]: Sent event IMCEvent to mod forge
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.000s
+[13:23:20] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod betterbuilderswands
+[13:23:20] [main/TRACE] [betterbuilderswands/betterbuilderswands]: Sending event IMCEvent to mod betterbuilderswands
+[13:23:20] [main/TRACE] [betterbuilderswands/betterbuilderswands]: Sent event IMCEvent to mod betterbuilderswands
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Better Builder's Wands took 0.000s
+[13:23:20] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod chameleon
+[13:23:20] [main/TRACE] [chameleon/chameleon]: Sending event IMCEvent to mod chameleon
+[13:23:20] [main/TRACE] [chameleon/chameleon]: Sent event IMCEvent to mod chameleon
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Chameleon took 0.000s
+[13:23:20] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod chesttransporter
+[13:23:20] [main/TRACE] [chesttransporter/chesttransporter]: Sending event IMCEvent to mod chesttransporter
+[13:23:20] [main/TRACE] [chesttransporter/chesttransporter]: Sent event IMCEvent to mod chesttransporter
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Chest Transporter took 0.000s
+[13:23:20] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod chiselsandbits
+[13:23:20] [main/TRACE] [chiselsandbits/chiselsandbits]: Sending event IMCEvent to mod chiselsandbits
+[13:23:20] [main/TRACE] [chiselsandbits/chiselsandbits]: Sent event IMCEvent to mod chiselsandbits
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Chisels & Bits took 0.009s
+[13:23:20] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod ftbl
+[13:23:20] [main/TRACE] [ftbl/ftbl]: Sending event IMCEvent to mod ftbl
+[13:23:20] [main/TRACE] [ftbl/ftbl]: Sent event IMCEvent to mod ftbl
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - FTBLib took 0.000s
+[13:23:20] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod ftbu
+[13:23:20] [main/TRACE] [ftbu/ftbu]: Sending event IMCEvent to mod ftbu
+[13:23:20] [main/TRACE] [ftbu/ftbu]: Sent event IMCEvent to mod ftbu
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - FTBUtilities took 0.000s
+[13:23:20] [main/TRACE] [FML/]: Attempting to deliver 1 IMC messages to mod waila
+[13:23:20] [main/TRACE] [waila/waila]: Sending event IMCEvent to mod waila
+[13:23:20] [main/INFO] [Waila/waila]: Receiving registration request from [ storagedrawers ] for method com.jaquadro.minecraft.storagedrawers.integration.Waila.registerProvider
+[13:23:20] [main/TRACE] [waila/waila]: Sent event IMCEvent to mod waila
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Waila took 0.005s
+[13:23:20] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod jei
+[13:23:20] [main/TRACE] [jei/jei]: Sending event IMCEvent to mod jei
+[13:23:20] [main/TRACE] [jei/jei]: Sent event IMCEvent to mod jei
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Just Enough Items took 0.000s
+[13:23:20] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod journeymap
+[13:23:20] [main/TRACE] [journeymap/journeymap]: Sending event IMCEvent to mod journeymap
+[13:23:20] [main/TRACE] [journeymap/journeymap]: Sent event IMCEvent to mod journeymap
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - JourneyMap took 0.000s
+[13:23:20] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod morpheus
+[13:23:20] [main/TRACE] [morpheus/morpheus]: Sending event IMCEvent to mod morpheus
+[13:23:20] [main/TRACE] [morpheus/morpheus]: Sent event IMCEvent to mod morpheus
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Morpheus took 0.000s
+[13:23:20] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod storagedrawers
+[13:23:20] [main/TRACE] [storagedrawers/storagedrawers]: Sending event IMCEvent to mod storagedrawers
+[13:23:20] [main/TRACE] [storagedrawers/storagedrawers]: Sent event IMCEvent to mod storagedrawers
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Storage Drawers took 0.000s
+[13:23:20] [main/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod tombmanygraves
+[13:23:20] [main/TRACE] [tombmanygraves/tombmanygraves]: Sending event IMCEvent to mod tombmanygraves
+[13:23:20] [main/TRACE] [tombmanygraves/tombmanygraves]: Sent event IMCEvent to mod tombmanygraves
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Tomb Many Graves took 0.000s
+[13:23:20] [main/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.017s
+[13:23:20] [main/INFO] [FML/]: Injecting itemstacks
+[13:23:20] [main/INFO] [FML/]: Itemstack injection complete
+[13:23:20] [main/TRACE] [minecraft/minecraft]: Sending event FMLPostInitializationEvent to mod minecraft
+[13:23:20] [main/TRACE] [minecraft/minecraft]: Sent event FMLPostInitializationEvent to mod minecraft
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft took 0.000s
+[13:23:20] [main/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
+[13:23:20] [main/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
+[13:23:20] [main/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
+[13:23:20] [main/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
+[13:23:20] [main/TRACE] [forge/forge]: Sending event FMLPostInitializationEvent to mod forge
+[13:23:20] [main/TRACE] [forge/forge]: Sent event FMLPostInitializationEvent to mod forge
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.013s
+[13:23:20] [main/TRACE] [betterbuilderswands/betterbuilderswands]: Sending event FMLPostInitializationEvent to mod betterbuilderswands
+[13:23:20] [main/INFO] [betterbuilderswands/betterbuilderswands]: Added 'minecraft:lapis_ore/0=>1*minecraft:lapis_ore/4=>minecraft:lapis_ore/0' to mapping
+[13:23:20] [main/INFO] [betterbuilderswands/betterbuilderswands]: Added 'minecraft:lit_redstone_ore/0=>1*minecraft:redstone_ore/0=>minecraft:lit_redstone_ore/0' to mapping
+[13:23:20] [main/INFO] [betterbuilderswands/betterbuilderswands]: Added 'minecraft:grass/0=>1*minecraft:grass/0=>minecraft:grass/0' to mapping
+[13:23:20] [main/INFO] [betterbuilderswands/betterbuilderswands]: Added 'minecraft:grass/0=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[13:23:20] [main/INFO] [betterbuilderswands/betterbuilderswands]: Added 'minecraft:dirt/1=>1*minecraft:dirt/1=>minecraft:dirt/1' to mapping
+[13:23:20] [main/INFO] [betterbuilderswands/betterbuilderswands]: Added 'minecraft:dirt/1=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[13:23:20] [main/INFO] [betterbuilderswands/betterbuilderswands]: Added 'minecraft:dirt/2=>1*minecraft:dirt/2=>minecraft:dirt/2' to mapping
+[13:23:20] [main/INFO] [betterbuilderswands/betterbuilderswands]: Added 'minecraft:dirt/2=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[13:23:20] [main/TRACE] [betterbuilderswands/betterbuilderswands]: Sent event FMLPostInitializationEvent to mod betterbuilderswands
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Better Builder's Wands took 0.002s
+[13:23:20] [main/TRACE] [chameleon/chameleon]: Sending event FMLPostInitializationEvent to mod chameleon
+[13:23:20] [main/TRACE] [chameleon/chameleon]: Sent event FMLPostInitializationEvent to mod chameleon
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Chameleon took 0.000s
+[13:23:20] [main/TRACE] [chesttransporter/chesttransporter]: Sending event FMLPostInitializationEvent to mod chesttransporter
+[13:23:20] [main/TRACE] [chesttransporter/chesttransporter]: Sent event FMLPostInitializationEvent to mod chesttransporter
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Chest Transporter took 0.000s
+[13:23:20] [main/TRACE] [chiselsandbits/chiselsandbits]: Sending event FMLPostInitializationEvent to mod chiselsandbits
+[13:23:20] [main/TRACE] [chiselsandbits/chiselsandbits]: Sent event FMLPostInitializationEvent to mod chiselsandbits
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Chisels & Bits took 0.018s
+[13:23:20] [main/TRACE] [ftbl/ftbl]: Sending event FMLPostInitializationEvent to mod ftbl
+[13:23:20] [main/TRACE] [ftbl/ftbl]: Sent event FMLPostInitializationEvent to mod ftbl
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: PostInitialization - FTBLib took 0.009s
+[13:23:20] [main/TRACE] [ftbu/ftbu]: Sending event FMLPostInitializationEvent to mod ftbu
+[13:23:20] [main/INFO] [FTBUtilities/ftbu]: Reloading guides...
+[13:23:20] [main/DEBUG] [FML/ftbu]: Bar Finished: Loading Resource - Guides took 0.032s
+[13:23:20] [main/TRACE] [ftbu/ftbu]: Sent event FMLPostInitializationEvent to mod ftbu
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: PostInitialization - FTBUtilities took 0.046s
+[13:23:20] [main/TRACE] [waila/waila]: Sending event FMLPostInitializationEvent to mod waila
+[13:23:20] [main/TRACE] [waila/waila]: Sent event FMLPostInitializationEvent to mod waila
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Waila took 0.005s
+[13:23:20] [main/TRACE] [jei/jei]: Sending event FMLPostInitializationEvent to mod jei
+[13:23:20] [main/TRACE] [jei/jei]: Sent event FMLPostInitializationEvent to mod jei
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Just Enough Items took 0.000s
+[13:23:20] [main/TRACE] [journeymap/journeymap]: Sending event FMLPostInitializationEvent to mod journeymap
+[13:23:20] [main/DEBUG] [journeymap/journeymap]: postInitialize ENTER
+[13:23:20] [main/DEBUG] [journeymap/journeymap]: Handler registered: journeymap.client.forge.event.ChatEventHandler
+[13:23:20] [main/DEBUG] [journeymap/journeymap]: Handler registered: journeymap.client.forge.event.StateTickHandler
+[13:23:20] [main/DEBUG] [journeymap/journeymap]: Handler registered: journeymap.client.forge.event.WorldEventHandler
+[13:23:20] [main/DEBUG] [journeymap/journeymap]: Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
+[13:23:20] [main/DEBUG] [journeymap/journeymap]: Handler registered: journeymap.client.forge.event.TextureAtlasHandler
+[13:23:20] [main/DEBUG] [journeymap/journeymap]: Handler registered: journeymap.client.world.ChunkMonitor
+[13:23:20] [main/DEBUG] [journeymap/journeymap]: Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
+[13:23:20] [main/DEBUG] [journeymap/journeymap]: Handler registered: journeymap.client.forge.event.KeyEventHandler
+[13:23:20] [main/INFO] [journeymap/journeymap]: Added entity icons from journeymap:icon/entity. Success: false
+[13:23:20] [main/TRACE] [journeymap/journeymap]: Initializing themes ...
+[13:23:20] [main/INFO] [journeymap/journeymap]: Preloaded theme textures: 58
+[13:23:20] [main/DEBUG] [journeymap/journeymap]: postInitialize EXIT, elapsed§8 count §r1§8 avg §r347.56§8ms§r
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: PostInitialization - JourneyMap took 0.354s
+[13:23:20] [main/TRACE] [morpheus/morpheus]: Sending event FMLPostInitializationEvent to mod morpheus
+[13:23:20] [main/TRACE] [morpheus/morpheus]: Sent event FMLPostInitializationEvent to mod morpheus
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Morpheus took 0.005s
+[13:23:20] [main/TRACE] [storagedrawers/storagedrawers]: Sending event FMLPostInitializationEvent to mod storagedrawers
+[13:23:20] [main/TRACE] [storagedrawers/storagedrawers]: Sent event FMLPostInitializationEvent to mod storagedrawers
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Storage Drawers took 0.000s
+[13:23:20] [main/TRACE] [tombmanygraves/tombmanygraves]: Sending event FMLPostInitializationEvent to mod tombmanygraves
+[13:23:20] [main/INFO] [tombmanygraves/tombmanygraves]: [TombManyGraves]: Baubles is NOT installed.
+[13:23:20] [main/INFO] [tombmanygraves/tombmanygraves]: [TombManyGraves]: Wearable Backpacks is NOT installed.
+[13:23:20] [main/INFO] [tombmanygraves/tombmanygraves]: [TombManyGraves]: Cosmetic Armor Reworked is NOT installed.
+[13:23:20] [main/INFO] [tombmanygraves/tombmanygraves]: [TombManyGraves]: Inventory Pets is NOT installed.
+[13:23:20] [main/INFO] [tombmanygraves/tombmanygraves]: [TombManyGraves]: CyberWare is NOT installed.
+[13:23:20] [main/TRACE] [tombmanygraves/tombmanygraves]: Sent event FMLPostInitializationEvent to mod tombmanygraves
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: PostInitialization - Tomb Many Graves took 0.007s
+[13:23:20] [main/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.462s
+[13:23:20] [main/TRACE] [minecraft/minecraft]: Sending event FMLLoadCompleteEvent to mod minecraft
+[13:23:20] [main/TRACE] [minecraft/minecraft]: Sent event FMLLoadCompleteEvent to mod minecraft
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft took 0.000s
+[13:23:20] [main/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
+[13:23:20] [main/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
+[13:23:20] [main/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
+[13:23:20] [main/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.002s
+[13:23:20] [main/TRACE] [forge/forge]: Sending event FMLLoadCompleteEvent to mod forge
+[13:23:20] [main/DEBUG] [FML/forge]: Forge RecipeSorter Baking:
+[13:23:20] [main/DEBUG] [FML/forge]:   16: RecipeEntry("Before", UNKNOWN, )
+[13:23:20] [main/DEBUG] [FML/forge]:   15: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[13:23:20] [main/DEBUG] [FML/forge]:   14: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[13:23:20] [main/DEBUG] [FML/forge]:   13: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[13:23:20] [main/DEBUG] [FML/forge]:   12: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[13:23:20] [main/DEBUG] [FML/forge]:   11: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
+[13:23:20] [main/DEBUG] [FML/forge]:   10: RecipeEntry("minecraft:shield_deco", SHAPELESS, net.minecraft.item.crafting.ShieldRecipes$Decoration) After: minecraft:shapeless
+[13:23:20] [main/DEBUG] [FML/forge]:   9: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[13:23:20] [main/DEBUG] [FML/forge]:   8: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[13:23:20] [main/DEBUG] [FML/forge]:   7: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
+[13:23:20] [main/DEBUG] [FML/forge]:   6: RecipeEntry("minecraft:tippedarrow", SHAPELESS, net.minecraft.item.crafting.RecipeTippedArrow) After: minecraft:shapeless
+[13:23:20] [main/DEBUG] [FML/forge]:   5: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[13:23:20] [main/DEBUG] [FML/forge]:   4: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[13:23:20] [main/DEBUG] [FML/forge]:   3: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
+[13:23:20] [main/DEBUG] [FML/forge]:   2: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[13:23:20] [main/DEBUG] [FML/forge]:   1: RecipeEntry("After", UNKNOWN, )
+[13:23:20] [main/DEBUG] [FML/forge]: Sorting recipes
+[13:23:20] [main/TRACE] [forge/forge]: Sent event FMLLoadCompleteEvent to mod forge
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.010s
+[13:23:20] [main/TRACE] [betterbuilderswands/betterbuilderswands]: Sending event FMLLoadCompleteEvent to mod betterbuilderswands
+[13:23:20] [main/TRACE] [betterbuilderswands/betterbuilderswands]: Sent event FMLLoadCompleteEvent to mod betterbuilderswands
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Better Builder's Wands took 0.000s
+[13:23:20] [main/TRACE] [chameleon/chameleon]: Sending event FMLLoadCompleteEvent to mod chameleon
+[13:23:20] [main/TRACE] [chameleon/chameleon]: Sent event FMLLoadCompleteEvent to mod chameleon
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Chameleon took 0.000s
+[13:23:20] [main/TRACE] [chesttransporter/chesttransporter]: Sending event FMLLoadCompleteEvent to mod chesttransporter
+[13:23:20] [main/TRACE] [chesttransporter/chesttransporter]: Sent event FMLLoadCompleteEvent to mod chesttransporter
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Chest Transporter took 0.000s
+[13:23:20] [main/TRACE] [chiselsandbits/chiselsandbits]: Sending event FMLLoadCompleteEvent to mod chiselsandbits
+[13:23:20] [main/TRACE] [chiselsandbits/chiselsandbits]: Sent event FMLLoadCompleteEvent to mod chiselsandbits
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Chisels & Bits took 0.000s
+[13:23:20] [main/TRACE] [ftbl/ftbl]: Sending event FMLLoadCompleteEvent to mod ftbl
+[13:23:20] [main/TRACE] [ftbl/ftbl]: Sent event FMLLoadCompleteEvent to mod ftbl
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: LoadComplete - FTBLib took 0.000s
+[13:23:20] [main/TRACE] [ftbu/ftbu]: Sending event FMLLoadCompleteEvent to mod ftbu
+[13:23:20] [main/TRACE] [ftbu/ftbu]: Sent event FMLLoadCompleteEvent to mod ftbu
+[13:23:20] [main/DEBUG] [FML/]: Bar Step: LoadComplete - FTBUtilities took 0.000s
+[13:23:20] [main/TRACE] [waila/waila]: Sending event FMLLoadCompleteEvent to mod waila
+[13:23:20] [main/INFO] [Waila/waila]: Attempting to register plugin for anything from mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[13:23:20] [main/INFO] [Waila/waila]: Registered plugin for anything from mcp.mobius.waila.addons.minecraft.PluginMinecraft in 11.98 ms
+[13:23:20] [main/INFO] [Waila/waila]: Attempting to register plugin for anything from mcp.mobius.waila.addons.capability.PluginCapability
+[13:23:20] [main/INFO] [Waila/waila]: Registered plugin for anything from mcp.mobius.waila.addons.capability.PluginCapability in 4.667 ms
+[13:23:20] [main/INFO] [Waila/waila]: Trying to reflect com.jaquadro.minecraft.storagedrawers.integration.Waila registerProvider
+[13:23:21] [main/INFO] [Waila/waila]: Success in registering storagedrawers
+[13:23:21] [main/TRACE] [waila/waila]: Sent event FMLLoadCompleteEvent to mod waila
+[13:23:21] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Waila took 0.036s
+[13:23:21] [main/TRACE] [jei/jei]: Sending event FMLLoadCompleteEvent to mod jei
+[13:23:21] [main/DEBUG] [FML/jei]: Bar Finished: Loading Resource - ProxyCommonClient$$Lambda$188/735426843 took 0.000s
+[13:23:21] [main/INFO] [jei/jei]: Starting JEI...
+[13:23:21] [main/DEBUG] [FML/jei]: Bar Finished: Registering item subtypes took 0.013s
+[13:23:21] [main/DEBUG] [FML/jei]: Bar Finished: Registering ingredients took 0.044s
+[13:23:21] [main/INFO] [jei/jei]: Registering categories: mezz.jei.plugins.vanilla.VanillaPlugin ...
+[13:23:21] [main/INFO] [jei/jei]: Registered  categories: mezz.jei.plugins.vanilla.VanillaPlugin in 14 ms
+[13:23:21] [main/INFO] [jei/jei]: Registering categories: mod.chiselsandbits.integration.mods.JustEnoughItems ...
+[13:23:21] [main/INFO] [jei/jei]: Registered  categories: mod.chiselsandbits.integration.mods.JustEnoughItems in 0 ms
+[13:23:21] [main/INFO] [jei/jei]: Registering categories: mcp.mobius.waila.handlers.JEIHandler ...
+[13:23:21] [main/INFO] [jei/jei]: Registered  categories: mcp.mobius.waila.handlers.JEIHandler in 0 ms
+[13:23:21] [main/INFO] [jei/jei]: Registering categories: com.jaquadro.minecraft.storagedrawers.integration.JustEnoughItems ...
+[13:23:21] [main/INFO] [jei/jei]: Registered  categories: com.jaquadro.minecraft.storagedrawers.integration.JustEnoughItems in 0 ms
+[13:23:21] [main/INFO] [jei/jei]: Registering categories: mezz.jei.plugins.jei.JEIInternalPlugin ...
+[13:23:21] [main/INFO] [jei/jei]: Registered  categories: mezz.jei.plugins.jei.JEIInternalPlugin in 2 ms
+[13:23:21] [main/DEBUG] [FML/jei]: Bar Finished: Registering categories took 0.019s
+[13:23:21] [main/INFO] [jei/jei]: Registering plugin: mezz.jei.plugins.vanilla.VanillaPlugin ...
+[13:23:21] [main/INFO] [jei/jei]: Registered vanilla repair recipes in 3 ms
+[13:23:21] [main/INFO] [jei/jei]: Registered enchantment recipes in 17 ms
+[13:23:21] [main/INFO] [jei/jei]: Registered  plugin: mezz.jei.plugins.vanilla.VanillaPlugin in 232 ms
+[13:23:21] [main/INFO] [jei/jei]: Registering plugin: mod.chiselsandbits.integration.mods.JustEnoughItems ...
+[13:23:21] [main/INFO] [jei/jei]: Registered  plugin: mod.chiselsandbits.integration.mods.JustEnoughItems in 4 ms
+[13:23:21] [main/INFO] [jei/jei]: Registering plugin: mcp.mobius.waila.handlers.JEIHandler ...
+[13:23:21] [main/INFO] [jei/jei]: Registered  plugin: mcp.mobius.waila.handlers.JEIHandler in 0 ms
+[13:23:21] [main/INFO] [jei/jei]: Registering plugin: com.jaquadro.minecraft.storagedrawers.integration.JustEnoughItems ...
+[13:23:21] [main/INFO] [jei/jei]: Registered  plugin: com.jaquadro.minecraft.storagedrawers.integration.JustEnoughItems in 4 ms
+[13:23:21] [main/INFO] [jei/jei]: Registering plugin: mezz.jei.plugins.jei.JEIInternalPlugin ...
+[13:23:21] [main/INFO] [jei/jei]: Registered  plugin: mezz.jei.plugins.jei.JEIInternalPlugin in 0 ms
+[13:23:21] [main/DEBUG] [FML/jei]: Bar Finished: Registering plugins took 0.241s
+[13:23:21] [main/INFO] [jei/jei]: Building recipe registry...
+[13:23:21] [main/DEBUG] [jei/jei]: No recipe wrapper for recipe: class net.minecraft.item.crafting.RecipesArmorDyes
+[13:23:21] [main/DEBUG] [jei/jei]: No recipe wrapper for recipe: class net.minecraft.item.crafting.RecipeBookCloning
+[13:23:21] [main/DEBUG] [jei/jei]: No recipe wrapper for recipe: class net.minecraft.item.crafting.RecipesMapCloning
+[13:23:21] [main/DEBUG] [jei/jei]: No recipe wrapper for recipe: class net.minecraft.item.crafting.RecipeFireworks
+[13:23:21] [main/DEBUG] [jei/jei]: No recipe wrapper for recipe: class net.minecraft.item.crafting.RecipeRepairItem
+[13:23:21] [main/DEBUG] [jei/jei]: No recipe wrapper for recipe: class net.minecraft.item.crafting.RecipeTippedArrow
+[13:23:21] [main/DEBUG] [jei/jei]: No recipe wrapper for recipe: class net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern
+[13:23:21] [main/DEBUG] [jei/jei]: No recipe wrapper for recipe: class net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern
+[13:23:21] [main/DEBUG] [jei/jei]: No recipe wrapper for recipe: class net.minecraft.item.crafting.ShieldRecipes$Decoration
+[13:23:21] [main/DEBUG] [jei/jei]: No recipe wrapper for recipe: class net.minecraft.item.crafting.ShulkerBoxRecipes$ShulkerBoxColoring
+[13:23:21] [main/DEBUG] [jei/jei]: No recipe wrapper for recipe: class mod.chiselsandbits.crafting.ChiselCrafting
+[13:23:21] [main/DEBUG] [jei/jei]: No recipe wrapper for recipe: class mod.chiselsandbits.crafting.ChiselBlockCrafting
+[13:23:21] [main/DEBUG] [jei/jei]: No recipe wrapper for recipe: class mod.chiselsandbits.crafting.StackableCrafting
+[13:23:21] [main/DEBUG] [jei/jei]: No recipe wrapper for recipe: class mod.chiselsandbits.crafting.NegativeInversionCrafting
+[13:23:21] [main/DEBUG] [jei/jei]: No recipe wrapper for recipe: class mod.chiselsandbits.crafting.MirrorTransferCrafting
+[13:23:21] [main/DEBUG] [jei/jei]: No recipe wrapper for recipe: class mod.chiselsandbits.crafting.BitSawCrafting
+[13:23:21] [main/DEBUG] [FML/jei]: Bar Finished: Adding recipes took 0.045s
+[13:23:21] [main/INFO] [jei/jei]: Built    recipe registry in 63 ms
+[13:23:21] [main/INFO] [jei/jei]: Building ingredient list...
+[13:23:21] [main/DEBUG] [FML/jei]: Bar Finished: Registering ingredients: FluidStack took 0.007s
+[13:23:21] [main/DEBUG] [FML/jei]: Bar Finished: Registering ingredients: ItemStack took 0.007s
+[13:23:21] [main/INFO] [jei/jei]: Built    ingredient list in 19 ms
+[13:23:21] [main/INFO] [jei/jei]: Building ingredient filter...
+[13:23:21] [main/DEBUG] [FML/jei]: Bar Finished: Indexing ingredients took 0.177s
+[13:23:21] [main/INFO] [jei/jei]: Built    ingredient filter in 252 ms
+[13:23:21] [main/INFO] [jei/jei]: Building runtime...
+[13:23:21] [main/INFO] [jei/jei]: Built    runtime in 112 ms
+[13:23:21] [main/INFO] [jei/jei]: Sending runtime to plugin: mezz.jei.plugins.vanilla.VanillaPlugin ...
+[13:23:21] [main/INFO] [jei/jei]: Sending runtime to plugin: mod.chiselsandbits.integration.mods.JustEnoughItems ...
+[13:23:21] [main/INFO] [jei/jei]: Sending runtime to plugin: mcp.mobius.waila.handlers.JEIHandler ...
+[13:23:21] [main/INFO] [jei/jei]: Sending runtime to plugin: com.jaquadro.minecraft.storagedrawers.integration.JustEnoughItems ...
+[13:23:21] [main/INFO] [jei/jei]: Sending runtime to plugin: mezz.jei.plugins.jei.JEIInternalPlugin ...
+[13:23:21] [main/DEBUG] [FML/jei]: Bar Finished: Sending Runtime took 0.000s
+[13:23:21] [main/INFO] [jei/jei]: Finished Starting JEI in 844 ms
+[13:23:21] [main/TRACE] [jei/jei]: Sent event FMLLoadCompleteEvent to mod jei
+[13:23:21] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Just Enough Items took 0.845s
+[13:23:21] [main/DEBUG] [FML/]: Bar Step: LoadComplete - JourneyMap took 0.000s
+[13:23:21] [main/TRACE] [morpheus/morpheus]: Sending event FMLLoadCompleteEvent to mod morpheus
+[13:23:21] [main/TRACE] [morpheus/morpheus]: Sent event FMLLoadCompleteEvent to mod morpheus
+[13:23:21] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Morpheus took 0.000s
+[13:23:21] [main/TRACE] [storagedrawers/storagedrawers]: Sending event FMLLoadCompleteEvent to mod storagedrawers
+[13:23:21] [main/TRACE] [storagedrawers/storagedrawers]: Sent event FMLLoadCompleteEvent to mod storagedrawers
+[13:23:21] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Storage Drawers took 0.000s
+[13:23:21] [main/TRACE] [tombmanygraves/tombmanygraves]: Sending event FMLLoadCompleteEvent to mod tombmanygraves
+[13:23:21] [main/TRACE] [tombmanygraves/tombmanygraves]: Sent event FMLLoadCompleteEvent to mod tombmanygraves
+[13:23:21] [main/DEBUG] [FML/]: Bar Step: LoadComplete - Tomb Many Graves took 0.000s
+[13:23:21] [main/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.895s
+[13:23:21] [main/DEBUG] [FML/]: Freezing registries
+[13:23:21] [main/TRACE] [minecraft/minecraft]: Sending event FMLModIdMappingEvent to mod minecraft
+[13:23:21] [main/TRACE] [minecraft/minecraft]: Sent event FMLModIdMappingEvent to mod minecraft
+[13:23:21] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft took 0.001s
+[13:23:21] [main/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[13:23:21] [main/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[13:23:21] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
+[13:23:21] [main/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[13:23:21] [main/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[13:23:21] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[13:23:21] [main/TRACE] [forge/forge]: Sending event FMLModIdMappingEvent to mod forge
+[13:23:22] [main/TRACE] [forge/forge]: Sent event FMLModIdMappingEvent to mod forge
+[13:23:22] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.431s
+[13:23:22] [main/TRACE] [betterbuilderswands/betterbuilderswands]: Sending event FMLModIdMappingEvent to mod betterbuilderswands
+[13:23:22] [main/TRACE] [betterbuilderswands/betterbuilderswands]: Sent event FMLModIdMappingEvent to mod betterbuilderswands
+[13:23:22] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Better Builder's Wands took 0.000s
+[13:23:22] [main/TRACE] [chameleon/chameleon]: Sending event FMLModIdMappingEvent to mod chameleon
+[13:23:22] [main/TRACE] [chameleon/chameleon]: Sent event FMLModIdMappingEvent to mod chameleon
+[13:23:22] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Chameleon took 0.000s
+[13:23:22] [main/TRACE] [chesttransporter/chesttransporter]: Sending event FMLModIdMappingEvent to mod chesttransporter
+[13:23:22] [main/TRACE] [chesttransporter/chesttransporter]: Sent event FMLModIdMappingEvent to mod chesttransporter
+[13:23:22] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Chest Transporter took 0.000s
+[13:23:22] [main/TRACE] [chiselsandbits/chiselsandbits]: Sending event FMLModIdMappingEvent to mod chiselsandbits
+[13:23:22] [main/TRACE] [chiselsandbits/chiselsandbits]: Sent event FMLModIdMappingEvent to mod chiselsandbits
+[13:23:22] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Chisels & Bits took 0.038s
+[13:23:22] [main/TRACE] [ftbl/ftbl]: Sending event FMLModIdMappingEvent to mod ftbl
+[13:23:22] [main/TRACE] [ftbl/ftbl]: Sent event FMLModIdMappingEvent to mod ftbl
+[13:23:22] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - FTBLib took 0.000s
+[13:23:22] [main/TRACE] [ftbu/ftbu]: Sending event FMLModIdMappingEvent to mod ftbu
+[13:23:22] [main/TRACE] [ftbu/ftbu]: Sent event FMLModIdMappingEvent to mod ftbu
+[13:23:22] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - FTBUtilities took 0.000s
+[13:23:22] [main/TRACE] [waila/waila]: Sending event FMLModIdMappingEvent to mod waila
+[13:23:22] [main/TRACE] [waila/waila]: Sent event FMLModIdMappingEvent to mod waila
+[13:23:22] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Waila took 0.003s
+[13:23:22] [main/TRACE] [jei/jei]: Sending event FMLModIdMappingEvent to mod jei
+[13:23:22] [main/TRACE] [jei/jei]: Sent event FMLModIdMappingEvent to mod jei
+[13:23:22] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Just Enough Items took 0.000s
+[13:23:22] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - JourneyMap took 0.000s
+[13:23:22] [main/TRACE] [morpheus/morpheus]: Sending event FMLModIdMappingEvent to mod morpheus
+[13:23:22] [main/TRACE] [morpheus/morpheus]: Sent event FMLModIdMappingEvent to mod morpheus
+[13:23:22] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Morpheus took 0.001s
+[13:23:22] [main/TRACE] [storagedrawers/storagedrawers]: Sending event FMLModIdMappingEvent to mod storagedrawers
+[13:23:22] [main/TRACE] [storagedrawers/storagedrawers]: Sent event FMLModIdMappingEvent to mod storagedrawers
+[13:23:22] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Storage Drawers took 0.000s
+[13:23:22] [main/TRACE] [tombmanygraves/tombmanygraves]: Sending event FMLModIdMappingEvent to mod tombmanygraves
+[13:23:22] [main/TRACE] [tombmanygraves/tombmanygraves]: Sent event FMLModIdMappingEvent to mod tombmanygraves
+[13:23:22] [main/DEBUG] [FML/]: Bar Step: ModIdMapping - Tomb Many Graves took 0.000s
+[13:23:22] [main/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.476s
+[13:23:22] [main/DEBUG] [FML/]: All registries frozen
+[13:23:22] [main/INFO] [FML/]: Forge Mod Loader has successfully loaded 16 mods
+[13:23:22] [main/DEBUG] [FML/]: Bar Finished: Loading took 13.073s
+[13:24:42] [main/DEBUG] [FML/]: Gathering id map for writing to world save check_seed
+[13:24:58] [main/DEBUG] [FML/]: Overriding dimension: using 0
+[13:25:00] [main/INFO] [FTBLib/]: Reloaded CLIENT on packmode 'default'
+[13:25:00] [main/WARN] [journeymap/]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[13:25:00] [main/WARN] [journeymap/]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[13:25:00] [main/INFO] [journeymap/]: Loading journeymap.topo.config
+[13:25:00] [main/INFO] [journeymap/]: Loaded 0 waypoints from /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/journeymap/data/sp/check_seed/waypoints
+[13:25:00] [main/INFO] [journeymap/]: Loading blocks and textures...
+[13:25:01] [main/WARN] [journeymap/]: Existing color palette's mods no longer match current loadout.
+[13:25:01] [main/INFO] [journeymap/]: WAS: Better Builder's Wands:0.11.1, Chameleon:1.12-4.1.3, Chest Transporter:2.8.7, Chisels & Bits:14.6, FTBLib:0.0.0, FTBUtilities:0.0.0, Forge Mod Loader:8.0.99.99, JourneyMap:1.12-5.4.9, Just Enough Items:4.7.5.85, Minecraft Coder Pack:9.19, Minecraft Forge:14.22.0.2460, Minecraft:1.12.1, Storage Drawers:1.12-5.2.5, Tomb Many Graves:@VERSION@, Waila:1.8.20
+NOW: Better Builder's Wands:0.11.1, Chameleon:1.12-4.1.3, Chest Transporter:2.8.7, Chisels & Bits:14.6, FTBLib:0.0.0, FTBUtilities:0.0.0, Forge Mod Loader:8.0.99.99, JourneyMap:1.12-5.4.9, Just Enough Items:4.7.5.85, Minecraft Coder Pack:9.19, Minecraft Forge:14.22.0.2460, Minecraft:1.12.1, Morpheus:1.12-3.3.2, Storage Drawers:1.12-5.2.5, Tomb Many Graves:@VERSION@, Waila:1.8.20
+[13:25:01] [main/INFO] [journeymap/]: Cached colors from TextureAtlasSprites: 383
+[13:25:01] [main/INFO] [journeymap/]: Initialized 5637 block colors from mods and resource packs in 198ms
+[13:25:01] [main/INFO] [journeymap/]: Color palette file generated with 534 colors in 54ms for: /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/journeymap/colorpalette.json
+[13:25:01] [main/INFO] [journeymap/]: Updated color palette file: /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/journeymap/colorpalette.json
+[13:25:01] [main/INFO] [journeymap/]: Mapping started in /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/journeymap/data/sp/check_seed/DIM0. Memory: 635MB total, 272MB free 
+[13:25:34] [main/INFO] [journeymap/]: JourneyMap: Press [J]
+[13:29:33] [main/INFO] [journeymap/]: Mapping halted in /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/journeymap/data/sp/check_seed/DIM0

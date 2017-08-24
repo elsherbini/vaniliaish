@@ -1,0 +1,55 @@
+[13:23:20] [main/INFO] [JMLogger] JourneyMap log initialized.
+[13:23:20] [main/INFO] [JourneymapClient] initialize ENTER
+[13:23:20] [main/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[13:23:20] [main/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[13:23:20] [Client thread/INFO] [?] Version: JourneyMap 1.12-5.4.9, built with Forge 14.21.1.2387
+Forge: 14.22.0.2460
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
+Unlimited Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.4.9, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showBiome=true, enabled=true, showPlayerHeading=true, showVillagers=true, sizePercent=30, showLocation=true, showMobs=true, showPets=true, showFps=false, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Circle, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, fontScale=1}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.4.9, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showBiome=true, enabled=true, showPlayerHeading=true, showVillagers=true, sizePercent=30, showLocation=true, showMobs=true, showPets=true, showFps=false, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Rectangle, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, fontScale=1}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.4.9, mobDisplay=Small Dots, zoomLevel=0, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=1, preferredMapType=day}
+WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.4.9, createDeathpoints=true, showName=true, maxDistance=0, autoHideLabel=true, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
+WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.4.9, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.4.9, radarLateralDistance=64, maxPlayersData=32, mapSurfaceAboveCaves=true, mapBathymetry=false, mapCrops=true, maxMobsData=32, optionsManagerViewed=null, announceMod=true, colorPassive=#bbbbbb, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mappingEnabled=true, renderOverlayEventTypeName=ALL, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, renderDistanceSurfaceMax=7, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, radarVerticalDistance=16, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, recordCacheStats=false, cacheMobsData=3000, hideSneakingEntities=true, cachePlayerData=1000, splashViewed=null, colorHostile=#ff0000, revealShape=Circle, cacheAnimalsData=3100, themeName=Victorian, alwaysMapSurface=false, colorVillager=#88e188, mapCaveLighting=true, mapPlants=false, renderDelay=2, renderOverlayPreEvent=true, colorPet=#0077ff, autoMapPoll=2000}
+[13:23:20] [main/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.3-SNAPSHOT
+[13:23:20] [main/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[13:23:20] [main/INFO] [PluginHelper] Initialized IClientPlugin: com.feed_the_beast.ftbu.integration.JourneyMapIntegration
+[13:23:20] [main/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[13:23:20] [main/TRACE] [LoadController] Sent event FMLInitializationEvent to mod journeymap
+[13:23:20] [main/TRACE] [LoadController] Sending event IMCEvent to mod journeymap
+[13:23:20] [main/TRACE] [LoadController] Sent event IMCEvent to mod journeymap
+[13:23:20] [main/TRACE] [LoadController] Sending event FMLPostInitializationEvent to mod journeymap
+[13:23:20] [main/DEBUG] [JourneymapClient] postInitialize ENTER
+[13:23:20] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
+[13:23:20] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
+[13:23:20] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
+[13:23:20] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
+[13:23:20] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
+[13:23:20] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
+[13:23:20] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
+[13:23:20] [main/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
+[13:23:20] [main/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[13:23:20] [main/TRACE] [ThemeFileHandler] Initializing themes ...
+[13:23:20] [main/INFO] [ThemeFileHandler] Preloaded theme textures: 58
+[13:23:20] [main/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r347.56§8ms§r
+[13:25:00] [main/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[13:25:00] [main/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[13:25:00] [main/INFO] [TopoRenderer] Loading journeymap.topo.config
+[13:25:00] [main/INFO] [WaypointStore] Loaded 0 waypoints from /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/journeymap/data/sp/check_seed/waypoints
+[13:25:00] [main/INFO] [ColorManager] Loading blocks and textures...
+[13:25:01] [main/WARN] [ColorPalette] Existing color palette's mods no longer match current loadout.
+[13:25:01] [main/INFO] [ColorPalette] WAS: Better Builder's Wands:0.11.1, Chameleon:1.12-4.1.3, Chest Transporter:2.8.7, Chisels & Bits:14.6, FTBLib:0.0.0, FTBUtilities:0.0.0, Forge Mod Loader:8.0.99.99, JourneyMap:1.12-5.4.9, Just Enough Items:4.7.5.85, Minecraft Coder Pack:9.19, Minecraft Forge:14.22.0.2460, Minecraft:1.12.1, Storage Drawers:1.12-5.2.5, Tomb Many Graves:@VERSION@, Waila:1.8.20
+NOW: Better Builder's Wands:0.11.1, Chameleon:1.12-4.1.3, Chest Transporter:2.8.7, Chisels & Bits:14.6, FTBLib:0.0.0, FTBUtilities:0.0.0, Forge Mod Loader:8.0.99.99, JourneyMap:1.12-5.4.9, Just Enough Items:4.7.5.85, Minecraft Coder Pack:9.19, Minecraft Forge:14.22.0.2460, Minecraft:1.12.1, Morpheus:1.12-3.3.2, Storage Drawers:1.12-5.2.5, Tomb Many Graves:@VERSION@, Waila:1.8.20
+[13:25:01] [main/INFO] [ColorManager] Cached colors from TextureAtlasSprites: 383
+[13:25:01] [main/INFO] [ColorManager] Initialized 5637 block colors from mods and resource packs in 198ms
+[13:25:01] [main/INFO] [ColorPalette] Color palette file generated with 534 colors in 54ms for: /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/journeymap/colorpalette.json
+[13:25:01] [main/INFO] [ColorManager] Updated color palette file: /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/journeymap/colorpalette.json
+[13:25:01] [main/INFO] [JourneymapClient] Mapping started in /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/journeymap/data/sp/check_seed/DIM0. Memory: 635MB total, 272MB free 
+[13:25:34] [main/INFO] [ChatLog] JourneyMap: Press [J]
+[13:29:33] [main/INFO] [JourneymapClient] Mapping halted in /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/journeymap/data/sp/check_seed/DIM0

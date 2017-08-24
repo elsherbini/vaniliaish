@@ -1,0 +1,336 @@
+[11:18:31] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[11:18:31] [main/INFO] [FML/]: Forge Mod Loader version 14.22.0.2460 for Minecraft 1.12.1 loading
+[11:18:31] [main/INFO] [FML/]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_131, running on Linux:amd64:4.9.8-040908-generic, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[11:18:31] [main/DEBUG] [FML/]: Java classpath at launch is:
+[11:18:31] [main/DEBUG] [FML/]:     /home/josephe/.local/share/multimc/bin/jars/NewLaunch.jar
+[11:18:31] [main/DEBUG] [FML/]: Java library path at launch is:
+[11:18:31] [main/DEBUG] [FML/]:     /home/josephe/.local/share/multimc/instances/Vanillaish/natives
+[11:18:31] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[11:18:31] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[11:18:31] [main/DEBUG] [FML/]: Found signing certificates for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin)
+[11:18:31] [main/DEBUG] [FML/]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[11:18:31] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[11:18:31] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[11:18:31] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[11:18:31] [main/DEBUG] [FML/]: Found signing certificates for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin)
+[11:18:31] [main/DEBUG] [FML/]: Found certificate e3c3d50c7c986df74c645c0ac54639741c90a557
+[11:18:31] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[11:18:31] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[11:18:31] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft
+[11:18:31] [main/DEBUG] [FML/]: Discovering coremods
+[11:18:31] [main/DEBUG] [FML/]: Examining for coremod candidacy BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar
+[11:18:31] [main/DEBUG] [FML/]: Not found coremod data in BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar
+[11:18:31] [main/DEBUG] [FML/]: Examining for coremod candidacy ChestTransporter-1.12-2.8.7.jar
+[11:18:31] [main/DEBUG] [FML/]: Not found coremod data in ChestTransporter-1.12-2.8.7.jar
+[11:18:31] [main/DEBUG] [FML/]: Examining for coremod candidacy chiselsandbits-14.6.jar
+[11:18:31] [main/DEBUG] [FML/]: Not found coremod data in chiselsandbits-14.6.jar
+[11:18:31] [main/DEBUG] [FML/]: Examining for coremod candidacy FTBLib-4.0.5.jar
+[11:18:31] [main/DEBUG] [FML/]: Not found coremod data in FTBLib-4.0.5.jar
+[11:18:31] [main/DEBUG] [FML/]: Examining for coremod candidacy FTBUtilities-4.0.3.jar
+[11:18:31] [main/DEBUG] [FML/]: Not found coremod data in FTBUtilities-4.0.3.jar
+[11:18:31] [main/DEBUG] [FML/]: Examining for coremod candidacy Hwyla-1.8.20-B35_1.12.jar
+[11:18:31] [main/DEBUG] [FML/]: Not found coremod data in Hwyla-1.8.20-B35_1.12.jar
+[11:18:31] [main/DEBUG] [FML/]: Examining for coremod candidacy jei_1.12-4.7.5.85.jar
+[11:18:31] [main/DEBUG] [FML/]: Not found coremod data in jei_1.12-4.7.5.85.jar
+[11:18:31] [main/DEBUG] [FML/]: Examining for coremod candidacy journeymap-1.12-5.4.9.jar
+[11:18:31] [main/DEBUG] [FML/]: Not found coremod data in journeymap-1.12-5.4.9.jar
+[11:18:31] [main/DEBUG] [FML/]: Examining for coremod candidacy StorageDrawers-1.12-5.2.9.jar
+[11:18:31] [main/DEBUG] [FML/]: Not found coremod data in StorageDrawers-1.12-5.2.9.jar
+[11:18:31] [main/DEBUG] [FML/]: Examining for coremod candidacy TombManyGraves-1.12-4.0.0.jar
+[11:18:31] [main/DEBUG] [FML/]: Not found coremod data in TombManyGraves-1.12-4.0.0.jar
+[11:18:31] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:18:31] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:18:31] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:18:31] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:18:31] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:18:31] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[11:18:31] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[11:18:31] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[11:18:31] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[11:18:31] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[11:18:32] [main/DEBUG] [FML/]: Injection complete
+[11:18:32] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[11:18:32] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[11:18:32] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[11:18:32] [main/DEBUG] [FML/]: Read 1008 binary patches
+[11:18:32] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.12.1.lzma with 36083 records
+[11:18:33] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[11:18:33] [main/INFO] [FML/]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[11:18:33] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[11:18:33] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:18:33] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[11:18:33] [main/DEBUG] [FML/]: Injection complete
+[11:18:33] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[11:18:33] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[11:18:33] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[11:18:33] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:18:33] [main/DEBUG] [FML/]: Loaded 206 rules from AccessTransformer config file forge_at.cfg
+[11:18:33] [main/DEBUG] [FML/]: Loaded 7 rules from AccessTransformer mod jar file /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/mods/chiselsandbits-14.6.jar!META-INF/chiselsandbits_at.cfg
+
+[11:18:33] [main/DEBUG] [FML/]: Loaded 2 rules from AccessTransformer mod jar file /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/mods/jei_1.12-4.7.5.85.jar!META-INF/jei_at.cfg
+
+[11:18:33] [main/DEBUG] [FML/]: Loaded 24 rules from AccessTransformer mod jar file /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/mods/FTBLib-4.0.5.jar!META-INF/ftbl_at.cfg
+
+[11:18:33] [main/DEBUG] [FML/]: Validating minecraft
+[11:18:33] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[11:18:33] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:18:33] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:18:34] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[11:18:38] [main/DEBUG] [FML/]: Creating vanilla freeze snapshot
+[11:18:38] [main/DEBUG] [FML/]: Vanilla freeze snapshot created
+[11:18:39] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - LanguageManager took 0.002s
+[11:18:39] [main/INFO] [FML/]: -- System Details --
+Details:
+	Minecraft Version: 1.12.1
+	Operating System: Linux (amd64) version 4.9.8-040908-generic
+	Java Version: 1.8.0_131, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 2446385832 bytes (2333 MB) / 2595749888 bytes (2475 MB) up to 3817865216 bytes (3641 MB)
+	JVM Flags: 2 total; -Xms2048m -Xmx4096m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'Intel Open Source Technology Center' Version: '3.0 Mesa 12.0.6' Renderer: 'Mesa DRI Intel(R) Kabylake GT2 '
+[11:18:39] [main/INFO] [FML/]: MinecraftForge v14.22.0.2460 Initialized
+[11:18:39] [main/INFO] [FML/]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[11:18:39] [main/INFO] [FML/]: Replaced 1036 ore ingredients
+[11:18:39] [main/DEBUG] [FML/]: File /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/config/injectedDependencies.json not found. No dependencies injected
+[11:18:39] [main/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[11:18:39] [main/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[11:18:39] [main/DEBUG] [FML/]: Found a minecraft related file at /home/josephe/.local/share/multimc/bin/jars/NewLaunch.jar, examining for mod candidates
+[11:18:39] [main/DEBUG] [FML/]: Found a minecraft related file at /home/josephe/.local/share/multimc/libraries/com/mojang/patchy/1.1/patchy-1.1.jar, examining for mod candidates
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/google/guava/guava/21.0/guava-21.0.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/mojang/realms/1.10.17/realms-1.10.17.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar
+[11:18:39] [main/DEBUG] [FML/]: Found a minecraft related file at /home/josephe/.local/share/multimc/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar, examining for mod candidates
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar
+[11:18:39] [main/DEBUG] [FML/]: Found a minecraft related file at /home/josephe/.local/share/multimc/libraries/net/minecraftforge/forge/1.12.1-14.22.0.2460/forge-1.12.1-14.22.0.2460-universal.jar, examining for mod candidates
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/jline/jline/2.13/jline-2.13.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar
+[11:18:39] [main/TRACE] [FML/]: Skipping known library file /home/josephe/.local/share/multimc/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar
+[11:18:39] [main/DEBUG] [FML/]: Found a minecraft related file at /home/josephe/.local/share/multimc/versions/1.12.1/1.12.1.jar, examining for mod candidates
+[11:18:39] [main/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[11:18:39] [main/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[11:18:39] [main/INFO] [FML/]: Searching /home/josephe/.local/share/multimc/instances/Vanillaish/minecraft/mods for mods
+[11:18:39] [main/DEBUG] [FML/]: Found a candidate zip or jar file BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar
+[11:18:39] [main/DEBUG] [FML/]: Found a candidate zip or jar file ChestTransporter-1.12-2.8.7.jar
+[11:18:39] [main/DEBUG] [FML/]: Found a candidate zip or jar file chiselsandbits-14.6.jar
+[11:18:39] [main/DEBUG] [FML/]: Found a candidate zip or jar file FTBLib-4.0.5.jar
+[11:18:39] [main/DEBUG] [FML/]: Found a candidate zip or jar file FTBUtilities-4.0.3.jar
+[11:18:39] [main/DEBUG] [FML/]: Found a candidate zip or jar file Hwyla-1.8.20-B35_1.12.jar
+[11:18:39] [main/DEBUG] [FML/]: Found a candidate zip or jar file jei_1.12-4.7.5.85.jar
+[11:18:39] [main/DEBUG] [FML/]: Found a candidate zip or jar file journeymap-1.12-5.4.9.jar
+[11:18:39] [main/DEBUG] [FML/]: Found a candidate zip or jar file StorageDrawers-1.12-5.2.9.jar
+[11:18:39] [main/DEBUG] [FML/]: Found a candidate zip or jar file TombManyGraves-1.12-4.0.0.jar
+[11:18:39] [main/DEBUG] [FML/]: Examining file NewLaunch.jar for potential mods
+[11:18:39] [main/DEBUG] [FML/]: The mod container NewLaunch.jar appears to be missing an mcmod.info file
+[11:18:39] [main/DEBUG] [FML/]: Examining file patchy-1.1.jar for potential mods
+[11:18:39] [main/DEBUG] [FML/]: The mod container patchy-1.1.jar appears to be missing an mcmod.info file
+[11:18:39] [main/DEBUG] [FML/]: Examining file text2speech-1.10.3.jar for potential mods
+[11:18:39] [main/DEBUG] [FML/]: The mod container text2speech-1.10.3.jar appears to be missing an mcmod.info file
+[11:18:39] [main/DEBUG] [FML/]: Examining file forge-1.12.1-14.22.0.2460-universal.jar for potential mods
+[11:18:39] [main/DEBUG] [FML/]: The mod container forge-1.12.1-14.22.0.2460-universal.jar appears to be missing an mcmod.info file
+[11:18:40] [main/DEBUG] [FML/]: Examining file 1.12.1.jar for potential mods
+[11:18:40] [main/DEBUG] [FML/]: The mod container 1.12.1.jar appears to be missing an mcmod.info file
+[11:18:40] [main/DEBUG] [FML/]: Examining file BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar for potential mods
+[11:18:40] [main/TRACE] [FML/]: Located mcmod.info file in file BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar
+[11:18:40] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (portablejim.bbw.BetterBuildersWandsMod) - loading
+[11:18:40] [main/TRACE] [betterbuilderswands/]: Parsed dependency info : [] [] []
+[11:18:40] [main/DEBUG] [betterbuilderswands/]: Attempting to load the file version.properties from BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar to locate a version number for betterbuilderswands
+[11:18:40] [main/DEBUG] [betterbuilderswands/]: Found version null for mod betterbuilderswands in version.properties, using
+[11:18:40] [main/WARN] [betterbuilderswands/]: Mod betterbuilderswands is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.11.1
+[11:18:40] [main/DEBUG] [FML/]: Examining file ChestTransporter-1.12-2.8.7.jar for potential mods
+[11:18:40] [main/TRACE] [FML/]: Located mcmod.info file in file ChestTransporter-1.12-2.8.7.jar
+[11:18:40] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (cubex2.mods.chesttransporter.ChestTransporter) - loading
+[11:18:40] [main/TRACE] [chesttransporter/]: Parsed dependency info : [] [] []
+[11:18:40] [main/DEBUG] [FML/]: Examining file chiselsandbits-14.6.jar for potential mods
+[11:18:40] [main/TRACE] [FML/]: Located mcmod.info file in file chiselsandbits-14.6.jar
+[11:18:40] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mod.chiselsandbits.core.ChiselsAndBits) - loading
+[11:18:40] [main/TRACE] [chiselsandbits/]: Parsed dependency info : [] [] []
+[11:18:40] [main/DEBUG] [FML/]: Examining file FTBLib-4.0.5.jar for potential mods
+[11:18:40] [main/TRACE] [FML/]: Located mcmod.info file in file FTBLib-4.0.5.jar
+[11:18:40] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.feed_the_beast.ftbl.FTBLibMod) - loading
+[11:18:40] [main/TRACE] [ftbl/]: Parsed dependency info : [] [Baubles, JEI, nei, Waila, MineTweaker3, mcmultipart, chiselsandbits] []
+[11:18:40] [main/DEBUG] [FML/]: Examining file FTBUtilities-4.0.3.jar for potential mods
+[11:18:40] [main/TRACE] [FML/]: Located mcmod.info file in file FTBUtilities-4.0.3.jar
+[11:18:40] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.feed_the_beast.ftbu.FTBU) - loading
+[11:18:40] [main/TRACE] [ftbu/]: Parsed dependency info : [ftbl] [ftbl] []
+[11:18:40] [main/DEBUG] [FML/]: Examining file Hwyla-1.8.20-B35_1.12.jar for potential mods
+[11:18:40] [main/TRACE] [FML/]: Located mcmod.info file in file Hwyla-1.8.20-B35_1.12.jar
+[11:18:40] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mcp.mobius.waila.Waila) - loading
+[11:18:40] [main/TRACE] [waila/]: Parsed dependency info : [] [] []
+[11:18:40] [main/DEBUG] [FML/]: Examining file jei_1.12-4.7.5.85.jar for potential mods
+[11:18:40] [main/TRACE] [FML/]: Located mcmod.info file in file jei_1.12-4.7.5.85.jar
+[11:18:40] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mezz.jei.JustEnoughItems) - loading
+[11:18:40] [main/TRACE] [jei/]: Parsed dependency info : [forge@[14.21.0.2348,)] [forge@[14.21.0.2348,)] []
+[11:18:40] [main/DEBUG] [FML/]: Examining file journeymap-1.12-5.4.9.jar for potential mods
+[11:18:40] [main/TRACE] [FML/]: Located mcmod.info file in file journeymap-1.12-5.4.9.jar
+[11:18:41] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (journeymap.common.Journeymap) - loading
+[11:18:41] [main/TRACE] [journeymap/]: Using mcmod dependency info : [] [Forge@[14.21.1.2387,)] []
+[11:18:41] [main/DEBUG] [FML/]: Examining file StorageDrawers-1.12-5.2.9.jar for potential mods
+[11:18:41] [main/TRACE] [FML/]: Located mcmod.info file in file StorageDrawers-1.12-5.2.9.jar
+[11:18:41] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.jaquadro.minecraft.storagedrawers.StorageDrawers) - loading
+[11:18:41] [main/TRACE] [storagedrawers/]: Using mcmod dependency info : [forge, chameleon] [chameleon] []
+[11:18:41] [main/DEBUG] [FML/]: Examining file TombManyGraves-1.12-4.0.0.jar for potential mods
+[11:18:41] [main/TRACE] [FML/]: Located mcmod.info file in file TombManyGraves-1.12-4.0.0.jar
+[11:18:41] [main/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.m4thg33k.tombmanygraves.TombManyGraves) - loading
+[11:18:41] [main/TRACE] [tombmanygraves/]: Parsed dependency info : [] [] []
+[11:18:41] [main/INFO] [FML/]: Forge Mod Loader has identified 14 mods to load
+[11:18:41] [main/DEBUG] [FML/]: Found API journeymap.client.api.event (owned by journeymap providing journeymap|client-api-event) embedded in journeymap
+[11:18:41] [main/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.render (owned by StorageDrawersAPI providing StorageDrawersAPI|render) embedded in storagedrawers
+[11:18:41] [main/DEBUG] [FML/]: Found API journeymap.client.api.util (owned by journeymap providing journeymap|client-api-util) embedded in journeymap
+[11:18:41] [main/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.registry (owned by StorageDrawersAPI providing StorageDrawersAPI|registry) embedded in storagedrawers
+[11:18:41] [main/DEBUG] [FML/]: Found API mod.chiselsandbits.api (owned by chiselsandbits providing ChiselsAndBitsAPI) embedded in chiselsandbits
+[11:18:41] [main/DEBUG] [FML/]: Found API journeymap.client.api (owned by journeymap providing journeymap|client-api) embedded in journeymap
+[11:18:41] [main/DEBUG] [FML/]: Found API mcp.mobius.waila.api (owned by Waila providing WailaAPI) embedded in waila
+[11:18:41] [main/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.storage.attribute (owned by StorageDrawersAPI providing StorageDrawersAPI|storage-attribute) embedded in storagedrawers
+[11:18:41] [main/DEBUG] [FML/]: Found API cubex2.mods.chesttransporter.api (owned by chesttransporter providing chesttransporter|api) embedded in chesttransporter
+[11:18:41] [main/DEBUG] [FML/]: Found API journeymap.client.api.model (owned by journeymap providing journeymap|client-api-model) embedded in journeymap
+[11:18:41] [main/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.event (owned by StorageDrawersAPI providing StorageDrawersAPI|event) embedded in storagedrawers
+[11:18:41] [main/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api.storage (owned by StorageDrawersAPI providing StorageDrawersAPI|storage) embedded in storagedrawers
+[11:18:41] [main/DEBUG] [FML/]: Found API journeymap.client.api.display (owned by journeymap providing journeymap|client-api-display) embedded in journeymap
+[11:18:41] [main/DEBUG] [FML/]: Found API mezz.jei.api (owned by jei providing JustEnoughItemsAPI) embedded in jei
+[11:18:41] [main/DEBUG] [FML/]: Found API com.jaquadro.minecraft.storagedrawers.api (owned by StorageDrawers providing StorageDrawersAPI) embedded in storagedrawers
+[11:18:41] [main/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|registry:2.1.0}
+[11:18:41] [main/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|registry: owner: StorageDrawersAPI, dependents: [storagedrawers]
+[11:18:41] [main/DEBUG] [FML/]: Creating API container dummy for API ChiselsAndBitsAPI: owner: chiselsandbits, dependents: []
+[11:18:41] [main/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|storage:2.1.0}
+[11:18:41] [main/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|storage: owner: StorageDrawersAPI, dependents: [storagedrawers]
+[11:18:41] [main/DEBUG] [FML/]: Creating API container dummy for API JustEnoughItemsAPI: owner: jei, dependents: []
+[11:18:41] [main/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api-display: owner: journeymap, dependents: []
+[11:18:41] [main/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI: owner: StorageDrawers, dependents: [storagedrawers]
+[11:18:41] [main/DEBUG] [FML/]: Creating API container dummy for API WailaAPI: owner: Waila, dependents: [waila]
+[11:18:41] [main/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api-model: owner: journeymap, dependents: []
+[11:18:41] [main/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api: owner: journeymap, dependents: []
+[11:18:41] [main/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api-event: owner: journeymap, dependents: []
+[11:18:41] [main/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|render:2.1.0}
+[11:18:41] [main/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|render: owner: StorageDrawersAPI, dependents: [storagedrawers]
+[11:18:41] [main/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|storage-attribute:2.1.0}
+[11:18:41] [main/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|storage-attribute: owner: StorageDrawersAPI, dependents: [storagedrawers]
+[11:18:41] [main/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api-util: owner: journeymap, dependents: []
+[11:18:41] [main/DEBUG] [FML/]: Creating API container dummy for API chesttransporter|api: owner: chesttransporter, dependents: []
+[11:18:41] [main/TRACE] [FML/]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|event:2.1.0}
+[11:18:41] [main/DEBUG] [FML/]: Creating API container dummy for API StorageDrawersAPI|event: owner: StorageDrawersAPI, dependents: [storagedrawers]
+[11:18:41] [main/TRACE] [FML/]: Received a system property request ''
+[11:18:41] [main/TRACE] [FML/]: System property request managing the state of 0 mods
+[11:18:41] [main/DEBUG] [FML/]: After merging, found state information for 0 mods
+[11:18:41] [main/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[11:18:41] [main/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[11:18:41] [main/DEBUG] [betterbuilderswands/]: Enabling mod betterbuilderswands
+[11:18:41] [main/DEBUG] [chesttransporter/]: Enabling mod chesttransporter
+[11:18:41] [main/DEBUG] [Chest Transporter/]: Mod Chest Transporter is missing a pack.mcmeta file, substituting a dummy one
+[11:18:41] [main/DEBUG] [chiselsandbits/]: Enabling mod chiselsandbits
+[11:18:41] [main/DEBUG] [ftbl/]: Enabling mod ftbl
+[11:18:41] [main/DEBUG] [FTBLib/]: Mod FTBLib is missing a pack.mcmeta file, substituting a dummy one
+[11:18:41] [main/DEBUG] [ftbu/]: Enabling mod ftbu
+[11:18:41] [main/DEBUG] [FTBUtilities/]: Mod FTBUtilities is missing a pack.mcmeta file, substituting a dummy one
+[11:18:41] [main/DEBUG] [waila/]: Enabling mod waila
+[11:18:41] [main/DEBUG] [Waila/]: Mod Waila is missing a pack.mcmeta file, substituting a dummy one
+[11:18:41] [main/DEBUG] [jei/]: Enabling mod jei
+[11:18:41] [main/DEBUG] [journeymap/]: Enabling mod journeymap
+[11:18:41] [main/DEBUG] [JourneyMap/]: Mod JourneyMap is missing a pack.mcmeta file, substituting a dummy one
+[11:18:41] [main/DEBUG] [storagedrawers/]: Enabling mod storagedrawers
+[11:18:41] [main/DEBUG] [tombmanygraves/]: Enabling mod tombmanygraves
+[11:18:41] [main/DEBUG] [Tomb Many Graves/]: Mod Tomb Many Graves is missing a pack.mcmeta file, substituting a dummy one
+[11:18:41] [main/TRACE] [FML/]: Verifying mod requirements are satisfied
+[11:18:41] [main/FATAL] [FML/]: The mod storagedrawers (Storage Drawers) requires mods [chameleon] to be available
+[11:18:41] [main/FATAL] [FML/]: Mod storagedrawers (Storage Drawers) requires [chameleon]
+[11:18:41] [main/DEBUG] [FML/]: Mod sorting data
+[11:18:41] [main/DEBUG] [FML/]: 	betterbuilderswands(Better Builder's Wands:0.11.1): BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar ()
+[11:18:41] [main/DEBUG] [FML/]: 	chesttransporter(Chest Transporter:2.8.7): ChestTransporter-1.12-2.8.7.jar ()
+[11:18:41] [main/DEBUG] [FML/]: 	chiselsandbits(Chisels & Bits:14.6): chiselsandbits-14.6.jar ()
+[11:18:41] [main/DEBUG] [FML/]: 	ftbl(FTBLib:0.0.0): FTBLib-4.0.5.jar (after:Baubles;after:JEI;after:nei;after:Waila;after:MineTweaker3;after:mcmultipart;after:chiselsandbits)
+[11:18:41] [main/DEBUG] [FML/]: 	ftbu(FTBUtilities:0.0.0): FTBUtilities-4.0.3.jar (required-after:ftbl)
+[11:18:41] [main/DEBUG] [FML/]: 	waila(Waila:1.8.20): Hwyla-1.8.20-B35_1.12.jar ()
+[11:18:41] [main/DEBUG] [FML/]: 	jei(Just Enough Items:4.7.5.85): jei_1.12-4.7.5.85.jar (required-after:forge@[14.21.0.2348,);)
+[11:18:41] [main/DEBUG] [FML/]: 	journeymap(JourneyMap:1.12-5.4.9): journeymap-1.12-5.4.9.jar ()
+[11:18:41] [main/DEBUG] [FML/]: 	storagedrawers(Storage Drawers:1.12-5.2.5): StorageDrawers-1.12-5.2.9.jar ()
+[11:18:41] [main/DEBUG] [FML/]: 	tombmanygraves(Tomb Many Graves:@VERSION@): TombManyGraves-1.12-4.0.0.jar ()
+[11:18:41] [main/DEBUG] [FML/]: Bar Step: Loading Resources - Default took 0.005s
+[11:18:41] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Forge Mod Loader took 0.002s
+[11:18:41] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Minecraft Forge took 0.001s
+[11:18:41] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Better Builder's Wands took 0.000s
+[11:18:41] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Chest Transporter took 0.001s
+[11:18:41] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Chisels & Bits took 0.001s
+[11:18:41] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:FTBLib took 0.001s
+[11:18:41] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:FTBUtilities took 0.001s
+[11:18:41] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Waila took 0.000s
+[11:18:41] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Just Enough Items took 0.001s
+[11:18:41] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:JourneyMap took 0.001s
+[11:18:41] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Storage Drawers took 0.001s
+[11:18:41] [main/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Tomb Many Graves took 0.000s
+[11:18:41] [main/DEBUG] [FML/]: Bar Finished: Reloading - LanguageManager took 0.032s
+[11:18:41] [main/DEBUG] [FML/]: Bar Step: Loading Resources - Reloading listeners took 0.032s
+[11:18:41] [main/DEBUG] [FML/]: Bar Finished: Loading Resources took 0.048s
+[11:18:41] [main/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[11:18:41] [main/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[11:18:41] [main/DEBUG] [Chest Transporter/]: Mod Chest Transporter is missing a pack.mcmeta file, substituting a dummy one
+[11:18:41] [main/DEBUG] [FTBLib/]: Mod FTBLib is missing a pack.mcmeta file, substituting a dummy one
+[11:18:41] [main/DEBUG] [FTBUtilities/]: Mod FTBUtilities is missing a pack.mcmeta file, substituting a dummy one
+[11:18:41] [main/DEBUG] [Waila/]: Mod Waila is missing a pack.mcmeta file, substituting a dummy one
+[11:18:41] [main/DEBUG] [JourneyMap/]: Mod JourneyMap is missing a pack.mcmeta file, substituting a dummy one
+[11:18:41] [main/DEBUG] [Tomb Many Graves/]: Mod Tomb Many Graves is missing a pack.mcmeta file, substituting a dummy one
+[11:18:41] [main/WARN] [FML/]: There were errors previously. Not beginning mod initialization phase
+[11:18:41] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - TextureManager took 0.000s
+[11:18:42] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - SoundHandler took 0.417s
+[11:18:42] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.004s
+[11:18:42] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.005s
+[11:18:42] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - GrassColorReloadListener took 0.010s
+[11:18:42] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - FoliageColorReloadListener took 0.010s
+[11:18:42] [main/DEBUG] [FML/]: Bar Step: Rendering Setup - GL Setup took 0.001s
+[11:18:42] [main/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Texture Map took 0.012s
+[11:18:42] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - B3DLoader took 0.001s
+[11:18:42] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - OBJLoader took 0.000s
+[11:18:42] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelFluid$FluidLoader took 0.000s
+[11:18:42] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - ItemLayerModel$Loader took 0.000s
+[11:18:42] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - MultiLayerModel$Loader took 0.000s
+[11:18:42] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelDynBucket$LoaderDynBucket took 0.000s
+[11:18:42] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelManager took 0.240s
+[11:18:42] [main/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Model Manager took 0.381s
+[11:18:42] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderItem took 0.005s
+[11:18:42] [main/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Item Renderer took 0.362s
+[11:18:42] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - EntityRenderer took 0.000s
+[11:18:42] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - BlockRendererDispatcher took 0.000s
+[11:18:43] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderGlobal took 0.000s
+[11:18:43] [main/DEBUG] [FML/]: Bar Finished: Loading Resource - SearchTreeManager took 0.101s
+[11:18:43] [main/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Entity Renderer took 0.509s
+[11:18:43] [main/DEBUG] [FML/]: Bar Finished: Rendering Setup took 1.265s
